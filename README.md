@@ -52,11 +52,11 @@ This folder contains my 1 week complete project for the program **“Introductio
     •Insight-driven storytelling using small datasets
 
 🗓️ Task Breakdown
-•Selected two AI tools: Power BI & ChatGPT Visualization Expert
-•Worked with two datasets: one real (Netflix Shows) and one AI-generated (Space Mission)
-•Defined KPIs, filters, and dashboard structure for both projects
-•Power BI Dashboard: built complete Netflix dashboard with visuals, slicers, and KPI cards
-•ChatGPT Visualization Expert Dashboard: generated dataset and created space mission visuals and insights entirely within the tool
+    •Selected two AI tools: Power BI & ChatGPT Visualization Expert
+    •Worked with two datasets: one real (Netflix Shows) and one AI-generated (Space Mission)
+    •Defined KPIs, filters, and dashboard structure for both projects
+    •Power BI Dashboard: built complete Netflix dashboard with visuals, slicers, and KPI cards
+    •ChatGPT Visualization Expert Dashboard: generated dataset and created space mission visuals and insights entirely within the tool
 
 ### 🎯 Outcome
 This project demonstrates the power of AI in modern analytics workflows. It showcases:
