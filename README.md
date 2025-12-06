@@ -20,7 +20,7 @@ This capstone project demonstrates the complete analytical workflow — from raw
 
 # 🗂️2.Introduction to AI-Powered Data Visualization Workshop
 
-This folder contains my complete project for the **“Introduction to AI-Powered Data Visualization Workshop”** , where I created two full dashboards using two different AI tools and datasets. The goal of the workshop was to understand how AI can support dataset creation, visualization planning, dashboard design, and insight generation across multiple platforms.
+This folder contains my 1 week complete project for the program **“Introduction to AI-Powered Data Visualization Workshop”** , where I created two full dashboards using two different AI tools and datasets. The goal of the workshop was to understand how AI can support dataset creation, visualization planning, dashboard design, and insight generation across multiple platforms.
 
 # 📊 Project Summary
 ## 🔹 Dashboard 1: Netflix Content Analytics (Power BI)
@@ -52,15 +52,11 @@ This folder contains my complete project for the **“Introduction to AI-Powered
     •Insight-driven storytelling using small datasets
 
 🗓️ Task Breakdown
-        •Selected two AI tools (Power BI & ChatGPT Visualization Expert)
-        •Chose two unrelated datasets (one real, one AI-generated)
-        •Defined KPIs, filters, and dashboard structure
-        •POWER BI-Dashboard Development
-        •Built complete NFT dashboard in Power BI
-        •Designed visualizations, slicers, KPI cards, and reports
-        •AI-Based Dashboard Creation
-        •Generated the space mission dataset using ChatGPT
-        •Designed visuals & insights entirely inside ChatGPT Visualization Expert environment
+•Selected two AI tools: Power BI & ChatGPT Visualization Expert
+•Worked with two datasets: one real (Netflix Shows) and one AI-generated (Space Mission)
+•Defined KPIs, filters, and dashboard structure for both projects
+•Power BI Dashboard: built complete Netflix dashboard with visuals, slicers, and KPI cards
+•ChatGPT Visualization Expert Dashboard: generated dataset and created space mission visuals and insights entirely within the tool
 
 ### 🎯 Outcome
 This project demonstrates the power of AI in modern analytics workflows. It showcases:
