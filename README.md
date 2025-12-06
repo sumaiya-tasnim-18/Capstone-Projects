@@ -52,15 +52,15 @@ This folder contains my complete project for the **“Introduction to AI-Powered
     •Insight-driven storytelling using small datasets
 
 🗓️ Task Breakdown
-    •Selected two AI tools (Power BI & ChatGPT Visualization Expert)
-    •Chose two unrelated datasets (one real, one AI-generated)
-    •Defined KPIs, filters, and dashboard structure
-    •POWER BI-Dashboard Development
-    •Built complete NFT dashboard in Power BI
-    •Designed visualizations, slicers, KPI cards, and reports
-    •AI-Based Dashboard Creation
-    •Generated the space mission dataset using ChatGPT
-    •Designed visuals & insights entirely inside ChatGPT Visualization Expert environment
+        •Selected two AI tools (Power BI & ChatGPT Visualization Expert)
+        •Chose two unrelated datasets (one real, one AI-generated)
+        •Defined KPIs, filters, and dashboard structure
+        •POWER BI-Dashboard Development
+        •Built complete NFT dashboard in Power BI
+        •Designed visualizations, slicers, KPI cards, and reports
+        •AI-Based Dashboard Creation
+        •Generated the space mission dataset using ChatGPT
+        •Designed visuals & insights entirely inside ChatGPT Visualization Expert environment
 
 ### 🎯 Outcome
 This project demonstrates the power of AI in modern analytics workflows. It showcases:
