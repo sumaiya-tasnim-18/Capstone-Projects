@@ -1,0 +1,501 @@
+Invoice_ID,Date,Customer_Name,Customer_Email,Product_Name,Category,Quantity,Unit_Price,Discount(%),Payment_Method,Store_Location,Salesperson,Total_Sales
+INV1000,12/27/2025,Robin Hughes,jsimon@gmail.com,Chocolate Gift Box,Beverages,4,22.39,10,Mobile Payment,Uptown,Martha,80.6
+INV1001,10/31/2025,Jessica Welch,scott29@gmail.com,Chocolate Truffles,Gifts,6,23.37,5,Mobile Payment,Airport Kiosk,Connor,133.21
+INV1002,4/16/2025,Lance Kelley,davidgarrison@gmail.com,Hot Chocolate Mix,Nuts,6,24.89,0,Cash,Airport Kiosk,Nicole,149.34
+INV1003,6/15/2025,Alvin Alvarado,rfitzpatrick@cook-mckenzie.com,Chocolate Gift Box,Bars,1,6.41,10,Online Transfer,Uptown,Charles,5.77
+INV1004,6/5/2025,Linda Hartman,hernandezstephanie@mercer.com,White Chocolate Bar,Nuts,8,11.42,15,Cash,Airport Kiosk,Cynthia,77.66
+INV1005,7/26/2025,Jill Warren,awilson@gmail.com,Hot Chocolate Mix,Gifts,6,19.56,0,Mobile Payment,Uptown,Caleb,117.36
+INV1006,12/8/2025,Kim Bradford,cchambers@yahoo.com,Hot Chocolate Mix,Gifts,3,18.16,0,Credit Card,Mall Outlet,Steven,54.48
+INV1007,11/30/2025,Logan Reynolds,gonzalesthomas@yahoo.com,Chocolate Gift Box,Gifts,9,5.96,15,Cash,Airport Kiosk,Marc,45.59
+INV1008,10/29/2025,Mr. Thomas Chambers III,april59@yahoo.com,Milk Chocolate Bar,Nuts,2,20.86,5,Cash,Mall Outlet,Scott,39.63
+INV1009,1/31/2026,Jason Johnson,ohorne@baker.com,White Chocolate Bar,Gifts,8,7.55,15,Credit Card,Downtown,Jennifer,51.34
+INV1010,7/13/2025,Ethan Wilson,pollardjames@hotmail.com,Chocolate Gift Box,Nuts,3,7.54,0,Cash,Mall Outlet,Justin,22.62
+INV1011,8/25/2025,Jessica Peters,grimesgary@gmail.com,White Chocolate Bar,Gifts,5,14.58,15,Credit Card,Mall Outlet,Nicole,61.96
+INV1012,3/14/2025,Matthew Donovan,olivermark@gmail.com,White Chocolate Bar,Beverages,6,15.84,10,Online Transfer,Uptown,William,85.54
+INV1013,4/19/2025,Dwayne Bradley,richardwatts@gonzalez.info,Hot Chocolate Mix,Gifts,6,15.55,15,Credit Card,Mall Outlet,Victoria,79.31
+INV1014,9/18/2025,James Brewer,davidwilliams@lang-santiago.com,Chocolate Truffles,Nuts,4,4.56,0,Online Transfer,Airport Kiosk,Tonya,18.24
+INV1015,8/6/2025,Douglas Rodriguez,jameselizabeth@leon-oneill.org,White Chocolate Bar,Truffles,3,22.24,15,Credit Card,Uptown,Aaron,56.71
+INV1016,12/20/2025,Larry Brooks,patriciagoodman@gmail.com,Chocolate-Covered Nuts,Gifts,4,8.48,5,Mobile Payment,Downtown,Linda,32.22
+INV1017,10/9/2025,Kayla Williams,amy42@gmail.com,Hot Chocolate Mix,Truffles,1,5.41,15,Mobile Payment,Airport Kiosk,Austin,4.6
+INV1018,11/28/2025,Emily Johnson,dennis72@white-gibbs.net,Milk Chocolate Bar,Beverages,4,22.5,5,Online Transfer,Downtown,Peggy,85.5
+INV1019,12/15/2025,Ryan West,smithsusan@hotmail.com,Chocolate Truffles,Bars,1,24,10,Online Transfer,Mall Outlet,Sarah,21.6
+INV1020,7/7/2025,Lisa Mitchell,karnold@woods.com,Chocolate-Covered Nuts,Beverages,1,21.9,5,Mobile Payment,Airport Kiosk,Derrick,20.8
+INV1021,5/1/2025,Mark Moore,lstevenson@gmail.com,Chocolate-Covered Nuts,Gifts,6,20.71,15,Online Transfer,Airport Kiosk,Russell,105.62
+INV1022,9/12/2025,William Howell,anthonyjones@yahoo.com,Milk Chocolate Bar,Truffles,5,17.24,0,Credit Card,Downtown,Brittany,86.2
+INV1023,9/16/2025,Erika Lee,garrett31@yahoo.com,Chocolate Truffles,Truffles,4,14.89,5,Credit Card,Airport Kiosk,George,56.58
+INV1024,11/22/2025,Jessica Fletcher,pwhite@carr.com,Hot Chocolate Mix,Nuts,3,4.46,10,Mobile Payment,Airport Kiosk,Samantha,12.04
+INV1025,9/9/2025,Teresa Dean,eskinner@yahoo.com,Dark Chocolate Bar,Truffles,1,11.69,5,Cash,Airport Kiosk,Michael,11.11
+INV1026,1/24/2026,Chad Collins,smithjulian@hotmail.com,Chocolate Truffles,Nuts,6,10.89,5,Credit Card,Mall Outlet,Stephanie,62.07
+INV1027,3/20/2025,Latasha Page,brandi62@green.info,Milk Chocolate Bar,Bars,2,8.34,5,Online Transfer,Downtown,Sean,15.85
+INV1028,11/27/2025,Rachel Anthony,emilydavidson@yahoo.com,Chocolate-Covered Nuts,Gifts,8,18.78,10,Cash,Airport Kiosk,David,135.22
+INV1029,10/25/2025,Michelle Webb,michele61@yahoo.com,Hot Chocolate Mix,Nuts,5,13.66,15,Cash,Uptown,Russell,58.05
+INV1030,3/16/2025,Amy Tucker,andrea92@krause-price.com,Chocolate Truffles,Bars,7,4.32,5,Credit Card,Uptown,David,28.73
+INV1031,1/19/2026,Samantha Barnes,ugonzalez@perry.com,Dark Chocolate Bar,Truffles,2,7.45,5,Credit Card,Uptown,Richard,14.16
+INV1032,8/2/2025,Benjamin Harris PhD,stevencarter@hotmail.com,Dark Chocolate Bar,Truffles,8,17.87,0,Cash,Uptown,Brandon,142.96
+INV1033,5/7/2025,Dustin Jones,crystal44@clark.net,White Chocolate Bar,Bars,2,4.21,10,Cash,Mall Outlet,Christopher,7.58
+INV1034,3/17/2025,Daniel Jones,garzadavid@johnson.com,White Chocolate Bar,Truffles,4,21.65,5,Mobile Payment,Airport Kiosk,Kimberly,82.27
+INV1035,5/4/2025,Kevin Brown,pvega@yahoo.com,Chocolate Gift Box,Bars,1,13.64,10,Online Transfer,Downtown,Ashley,12.28
+INV1036,12/7/2025,Laurie Wade,michaelmorrow@ward.info,Milk Chocolate Bar,Nuts,5,13.31,5,Mobile Payment,Airport Kiosk,Madison,63.22
+INV1037,12/8/2025,Daniel Bruce,imartinez@hotmail.com,Chocolate Truffles,Nuts,9,15.83,15,Credit Card,Mall Outlet,Dustin,121.1
+INV1038,4/12/2025,Walter Sanchez,williamgarcia@wright.info,Chocolate Truffles,Bars,1,21.06,15,Mobile Payment,Uptown,James,17.9
+INV1039,11/9/2025,Melissa Swanson,sara86@everett.com,Chocolate Gift Box,Nuts,9,10.33,5,Mobile Payment,Mall Outlet,Lauren,88.32
+INV1040,3/23/2025,Joel Ramsey,yhopkins@taylor.com,Chocolate-Covered Nuts,Nuts,8,17.76,15,Mobile Payment,Airport Kiosk,Taylor,120.77
+INV1041,2/18/2025,Lori Robles,kristin26@yahoo.com,Chocolate-Covered Nuts,Nuts,6,15.23,5,Mobile Payment,Downtown,Jennifer,86.81
+INV1042,6/9/2025,David Evans,sstewart@roberts.biz,Chocolate Gift Box,Beverages,7,8.51,15,Online Transfer,Mall Outlet,Alex,50.63
+INV1043,11/7/2025,Ashley Davis,sharoncook@mitchell-evans.com,Chocolate-Covered Nuts,Gifts,3,22.27,0,Online Transfer,Downtown,Brian,66.81
+INV1044,10/25/2025,Tami Garcia,sara75@johnson-romero.com,White Chocolate Bar,Truffles,1,20.44,0,Cash,Mall Outlet,Carolyn,20.44
+INV1045,12/17/2025,Philip Owen,aaronmendoza@hughes-cook.net,Chocolate Truffles,Beverages,5,17.32,0,Credit Card,Downtown,Jason,86.6
+INV1046,7/27/2025,Matthew Vega,benjamin23@thompson-stone.org,Chocolate Gift Box,Nuts,2,21.64,10,Mobile Payment,Downtown,Chad,38.95
+INV1047,12/27/2025,Ann Ramirez,williamsadam@yahoo.com,Chocolate Truffles,Bars,5,22.01,10,Cash,Uptown,Tammy,99.05
+INV1048,3/23/2025,Debra Wilson,tammy30@yahoo.com,Dark Chocolate Bar,Nuts,8,18.44,0,Cash,Downtown,Kristin,147.52
+INV1049,12/9/2025,Lindsey Hull,tiffanyallison@hotmail.com,White Chocolate Bar,Gifts,9,21.33,10,Cash,Uptown,Pamela,172.77
+INV1050,7/6/2025,David Henderson,terrysamantha@lowe.net,Hot Chocolate Mix,Nuts,2,18.19,15,Online Transfer,Airport Kiosk,Priscilla,30.92
+INV1051,8/17/2025,Cynthia Morales,stephensjoshua@cruz.info,White Chocolate Bar,Bars,3,17.8,5,Mobile Payment,Airport Kiosk,Joseph,50.73
+INV1052,6/5/2025,Casey Ayala,joandaniel@gmail.com,Chocolate Gift Box,Gifts,3,16.42,5,Mobile Payment,Uptown,Amanda,46.8
+INV1053,7/15/2025,Rebecca Brown,diane22@ferguson.com,Hot Chocolate Mix,Nuts,1,19.44,5,Credit Card,Uptown,Christopher,18.47
+INV1054,3/14/2025,Maureen Reyes,taylorpaul@reese.com,Dark Chocolate Bar,Gifts,8,6.07,0,Mobile Payment,Mall Outlet,Heather,48.56
+INV1055,12/14/2025,Laura Gonzalez,nicolescott@gmail.com,Chocolate Gift Box,Truffles,6,22.32,10,Mobile Payment,Mall Outlet,Michael,120.53
+INV1056,10/12/2025,Brent Scott,steven97@knight.info,Milk Chocolate Bar,Truffles,8,22.12,15,Cash,Mall Outlet,Edward,150.42
+INV1057,11/1/2025,Gregory Martinez,edwardgray@bowman.net,Chocolate Truffles,Nuts,9,3.16,15,Credit Card,Airport Kiosk,Deborah,24.17
+INV1058,3/22/2025,William Williams,ghernandez@hotmail.com,Dark Chocolate Bar,Gifts,5,21.08,0,Mobile Payment,Mall Outlet,Ruben,105.4
+INV1059,4/6/2025,Jonathan Garcia,diane41@hotmail.com,Chocolate Truffles,Bars,3,5.4,15,Online Transfer,Downtown,Rita,13.77
+INV1060,10/10/2025,Frank Holder,hbrown@turner.net,Chocolate-Covered Nuts,Nuts,5,10.04,15,Mobile Payment,Downtown,Alex,42.67
+INV1061,12/2/2025,John Stevens,clarence83@hoffman.com,Milk Chocolate Bar,Truffles,5,19.23,15,Cash,Mall Outlet,Ruben,81.73
+INV1062,9/8/2025,Jason Montes,woodsjeremiah@gmail.com,Milk Chocolate Bar,Truffles,5,6.12,15,Online Transfer,Downtown,Francisco,26.01
+INV1063,12/29/2025,Jonathan Frank,morenojason@patterson.com,Dark Chocolate Bar,Nuts,3,20.9,10,Cash,Airport Kiosk,Jeff,56.43
+INV1064,10/26/2025,Greg Jones,james28@pena.net,Milk Chocolate Bar,Gifts,4,21.22,15,Mobile Payment,Downtown,Peggy,72.15
+INV1065,4/7/2025,Tiffany Bowers,megan58@frazier-howell.org,Hot Chocolate Mix,Truffles,9,13.92,5,Online Transfer,Airport Kiosk,Kelly,119.02
+INV1066,3/4/2025,Mark Guerrero,bjones@barr.com,Milk Chocolate Bar,Gifts,9,2.64,0,Credit Card,Uptown,Alejandro,23.76
+INV1067,6/27/2025,Jennifer Mendez,freemanmichael@moore.info,Chocolate Truffles,Truffles,2,8.96,10,Credit Card,Uptown,Paula,16.13
+INV1068,7/7/2025,Sean Baker,bhernandez@smith-wilson.biz,Chocolate Truffles,Truffles,8,16.38,15,Online Transfer,Uptown,Brittany,111.38
+INV1069,9/1/2025,Mr. Joseph Valentine,charlesbrown@gmail.com,Chocolate Gift Box,Beverages,8,24.58,10,Online Transfer,Uptown,John,176.98
+INV1070,2/6/2026,Ernest Brown,davidsilva@young-banks.net,Chocolate Truffles,Truffles,7,16.72,15,Cash,Downtown,Stephanie,99.48
+INV1071,1/29/2026,Jennifer Perez,moorelisa@gmail.com,Chocolate Gift Box,Bars,8,8.35,5,Online Transfer,Mall Outlet,Jared,63.46
+INV1072,1/28/2026,Kimberly Barnett,dharvey@yahoo.com,Chocolate Truffles,Nuts,3,16.77,0,Cash,Downtown,Samantha,50.31
+INV1073,8/12/2025,Laura Camacho,lisaolson@hotmail.com,Hot Chocolate Mix,Nuts,6,14.65,15,Mobile Payment,Airport Kiosk,Cynthia,74.72
+INV1074,9/29/2025,Eric Patel,hillthomas@wright.com,Chocolate Gift Box,Gifts,1,20.05,15,Cash,Downtown,Samantha,17.04
+INV1075,3/4/2025,Vincent Farley,karenramirez@yahoo.com,White Chocolate Bar,Truffles,7,4.91,15,Online Transfer,Downtown,Nicole,29.21
+INV1076,4/10/2025,Andrew Herrera,benjamin18@warner.com,Chocolate-Covered Nuts,Bars,1,19.62,15,Online Transfer,Airport Kiosk,Michelle,16.68
+INV1077,12/27/2025,Dawn Martinez,parkermike@yahoo.com,Dark Chocolate Bar,Gifts,9,14.68,0,Mobile Payment,Uptown,Haley,132.12
+INV1078,5/1/2025,Erin Moore,aguilarariel@yahoo.com,Chocolate Truffles,Beverages,1,24.17,0,Online Transfer,Uptown,Catherine,24.17
+INV1079,12/26/2025,Joseph Christian,nicholaschoi@thompson-morse.net,Milk Chocolate Bar,Gifts,1,10.19,5,Online Transfer,Uptown,Matthew,9.68
+INV1080,12/20/2025,Richard Russell,leenatalie@ruiz.com,Chocolate Truffles,Gifts,7,16.73,0,Credit Card,Mall Outlet,Hayden,117.11
+INV1081,6/30/2025,Francisco Turner,reedtodd@cooper-ramirez.com,Milk Chocolate Bar,Truffles,2,23.47,15,Credit Card,Airport Kiosk,Douglas,39.9
+INV1082,3/3/2025,Jennifer Cannon,david64@smith.com,Chocolate-Covered Nuts,Beverages,5,4.81,5,Mobile Payment,Airport Kiosk,Angela,22.85
+INV1083,4/7/2025,Lauren Mills,michael48@perez.biz,Chocolate-Covered Nuts,Gifts,8,23.59,5,Cash,Downtown,Sarah,179.28
+INV1084,6/1/2025,Megan Greene,rebecca74@potts-erickson.com,Chocolate-Covered Nuts,Bars,8,17.98,5,Credit Card,Mall Outlet,Travis,136.65
+INV1085,9/13/2025,Daniel Webb,michael18@yahoo.com,Milk Chocolate Bar,Bars,3,4.03,15,Cash,Uptown,Kevin,10.28
+INV1086,4/21/2025,Casey Grant,tonya07@torres-hamilton.com,Chocolate Truffles,Nuts,7,9.27,10,Online Transfer,Mall Outlet,Patricia,58.4
+INV1087,1/18/2026,Jesse Green,frobinson@gmail.com,Chocolate-Covered Nuts,Beverages,3,18.43,15,Credit Card,Airport Kiosk,Kimberly,47
+INV1088,11/24/2025,Laura Maldonado,kennethhayes@yahoo.com,Hot Chocolate Mix,Beverages,6,4.02,0,Mobile Payment,Airport Kiosk,Anna,24.12
+INV1089,8/10/2025,Rachel Williams,monicaphillips@young.com,Chocolate Gift Box,Nuts,6,15.6,0,Mobile Payment,Downtown,Martha,93.6
+INV1090,10/31/2025,Juan Brock,bakerbrittney@holt.com,Milk Chocolate Bar,Gifts,3,10.28,15,Mobile Payment,Downtown,Scott,26.21
+INV1091,9/29/2025,Caitlyn Robertson,egreen@flores.com,Milk Chocolate Bar,Beverages,7,16.47,15,Credit Card,Airport Kiosk,Lisa,98
+INV1092,2/11/2025,Nicholas Murphy,russellanna@garcia-morgan.com,Chocolate Truffles,Bars,3,3.53,5,Cash,Uptown,Christy,10.06
+INV1093,9/18/2025,Christopher Ho,lopezvictor@hotmail.com,Milk Chocolate Bar,Bars,8,22.11,15,Online Transfer,Uptown,Amy,150.35
+INV1094,9/14/2025,Jennifer Salazar,jason20@ingram-smith.net,Milk Chocolate Bar,Truffles,4,24.4,5,Cash,Mall Outlet,Christina,92.72
+INV1095,10/17/2025,Matthew Brown,cjohnson@hotmail.com,Chocolate-Covered Nuts,Beverages,1,24.3,0,Cash,Airport Kiosk,Jennifer,24.3
+INV1096,12/12/2025,Jason Johnston,murphygabriel@lopez.com,Chocolate Truffles,Gifts,4,19.37,5,Online Transfer,Airport Kiosk,Michelle,73.61
+INV1097,7/29/2025,Angela Gardner,gregorymoran@yahoo.com,Chocolate-Covered Nuts,Nuts,7,5.43,15,Online Transfer,Uptown,Laura,32.31
+INV1098,11/28/2025,Anthony Patel,michael18@bennett.com,Chocolate Gift Box,Nuts,4,19.56,0,Credit Card,Uptown,Michael,78.24
+INV1099,8/2/2025,Peter Chapman,ogordon@yahoo.com,Chocolate Gift Box,Gifts,6,3.05,10,Credit Card,Airport Kiosk,Donald,16.47
+INV1100,4/10/2025,Robert Choi,denisewright@douglas.biz,Chocolate-Covered Nuts,Truffles,9,3,5,Credit Card,Downtown,Margaret,25.65
+INV1101,9/24/2025,Joseph Gibson,janet89@mccormick.com,Chocolate Gift Box,Nuts,1,9.78,0,Credit Card,Airport Kiosk,Elizabeth,9.78
+INV1102,4/23/2025,Thomas Silva,careydeborah@hotmail.com,Chocolate Truffles,Beverages,5,13.49,5,Credit Card,Airport Kiosk,Sarah,64.08
+INV1103,4/10/2025,Dr. Donald Sampson,jonescrystal@spencer.com,Dark Chocolate Bar,Truffles,7,19.83,0,Online Transfer,Uptown,George,138.81
+INV1104,3/28/2025,Amy Klein,martinezmichael@jackson-soto.com,Chocolate-Covered Nuts,Beverages,1,17.87,0,Cash,Uptown,Dana,17.87
+INV1105,11/19/2025,Susan Smith,newtonjennifer@strickland-jones.info,Hot Chocolate Mix,Bars,4,12.53,5,Credit Card,Downtown,Madison,47.61
+INV1106,9/17/2025,Victoria Orozco,qwilson@hotmail.com,Hot Chocolate Mix,Truffles,6,8.66,10,Credit Card,Downtown,Charles,46.76
+INV1107,2/28/2025,Laura Rogers,george14@gmail.com,Milk Chocolate Bar,Nuts,2,24.94,0,Cash,Mall Outlet,John,49.88
+INV1108,2/11/2025,Brittany Alexander,cowens@yahoo.com,Chocolate Gift Box,Truffles,5,12.09,0,Credit Card,Airport Kiosk,James,60.45
+INV1109,3/16/2025,Patricia Boone,moonbrenda@ball.org,Hot Chocolate Mix,Truffles,1,12.66,0,Cash,Uptown,Erin,12.66
+INV1110,4/12/2025,Jonathon Fields,balllisa@gmail.com,Milk Chocolate Bar,Truffles,6,6.18,10,Cash,Downtown,Stephanie,33.37
+INV1111,4/14/2025,Tommy Atkins,davisvincent@gmail.com,Dark Chocolate Bar,Truffles,6,20.38,10,Online Transfer,Mall Outlet,Carly,110.05
+INV1112,12/12/2025,Dr. Theresa Williams MD,charlesallen@velazquez.net,Chocolate Truffles,Beverages,4,18.11,15,Mobile Payment,Mall Outlet,Nicole,61.57
+INV1113,6/7/2025,Hannah Jones,tina15@smith.org,Chocolate Truffles,Bars,8,7.47,5,Online Transfer,Uptown,Leslie,56.77
+INV1114,11/25/2025,Ryan Ramirez,jeremiah96@yahoo.com,Chocolate Truffles,Gifts,4,4.35,10,Mobile Payment,Uptown,Melinda,15.66
+INV1115,8/19/2025,Wendy Barr,madeline72@mitchell.com,Hot Chocolate Mix,Truffles,8,17.81,5,Mobile Payment,Mall Outlet,Trevor,135.36
+INV1116,8/4/2025,William Green,dwilson@yahoo.com,Dark Chocolate Bar,Nuts,8,17.23,15,Mobile Payment,Downtown,Cynthia,117.16
+INV1117,4/30/2025,Mark Garcia,andrewroach@porter.net,Hot Chocolate Mix,Truffles,5,8.65,5,Credit Card,Mall Outlet,Michelle,41.09
+INV1118,3/25/2025,Nathan Nichols,calvinmoore@hotmail.com,Chocolate Gift Box,Nuts,4,23.89,10,Online Transfer,Airport Kiosk,Edward,86
+INV1119,8/19/2025,Charles Hurley,rhonda85@gmail.com,Hot Chocolate Mix,Beverages,2,5.9,5,Mobile Payment,Airport Kiosk,Lisa,11.21
+INV1120,4/26/2025,Linda Jones,mercedes12@yahoo.com,Dark Chocolate Bar,Nuts,3,12.23,10,Cash,Uptown,Annette,33.02
+INV1121,2/6/2026,Rachel Sandoval,melissaowens@gmail.com,Dark Chocolate Bar,Gifts,3,23.73,5,Credit Card,Downtown,Brent,67.63
+INV1122,4/11/2025,Morgan Thomas,nreed@gmail.com,Chocolate Gift Box,Bars,4,11.94,10,Online Transfer,Downtown,Stephanie,42.98
+INV1123,6/29/2025,Danielle Brown DDS,tfernandez@hotmail.com,Dark Chocolate Bar,Nuts,4,16.87,10,Mobile Payment,Airport Kiosk,Jeffrey,60.73
+INV1124,12/31/2025,Lori Lawrence,wward@sanchez.org,Dark Chocolate Bar,Nuts,5,11.45,5,Cash,Mall Outlet,Steven,54.39
+INV1125,1/8/2026,Nichole Reed,vbarton@gmail.com,Chocolate Truffles,Bars,4,8.67,15,Online Transfer,Uptown,Juan,29.48
+INV1126,9/19/2025,Monica Smith,anthonylevine@yahoo.com,Chocolate Gift Box,Gifts,8,24.64,0,Online Transfer,Mall Outlet,Paul,197.12
+INV1127,1/2/2026,Joseph Pratt,pwoods@hotmail.com,White Chocolate Bar,Truffles,6,11.71,15,Credit Card,Mall Outlet,David,59.72
+INV1128,3/10/2025,Stacey Carrillo,brandon40@hotmail.com,White Chocolate Bar,Nuts,6,22.62,5,Online Transfer,Mall Outlet,Christopher,128.93
+INV1129,4/28/2025,Debra Sanders,michellerodriguez@gmail.com,Dark Chocolate Bar,Bars,8,7.67,15,Credit Card,Downtown,Patricia,52.16
+INV1130,3/26/2025,Rebekah Williams,andrew42@garcia.org,White Chocolate Bar,Beverages,7,7.29,10,Mobile Payment,Airport Kiosk,Edward,45.93
+INV1131,2/27/2025,Justin Walsh,williamsdouglas@gmail.com,White Chocolate Bar,Bars,8,3.2,0,Credit Card,Downtown,Tony,25.6
+INV1132,2/19/2025,Daniel Williams DVM,bowmanaustin@wilson-watson.com,Dark Chocolate Bar,Beverages,2,17.16,5,Cash,Airport Kiosk,Eduardo,32.6
+INV1133,10/28/2025,Sara Collins,maryrobinson@hotmail.com,White Chocolate Bar,Gifts,9,10.79,5,Credit Card,Uptown,Toni,92.25
+INV1134,5/21/2025,Martin Mcneil,ramosdarlene@gmail.com,Hot Chocolate Mix,Truffles,1,21.95,5,Cash,Uptown,Nichole,20.85
+INV1135,11/11/2025,Linda Garcia,webbkaren@hotmail.com,Milk Chocolate Bar,Bars,8,13.15,0,Credit Card,Mall Outlet,Melissa,105.2
+INV1136,11/5/2025,Frances Rivera,hweaver@figueroa.biz,Chocolate Gift Box,Nuts,4,24.28,10,Online Transfer,Airport Kiosk,Travis,87.41
+INV1137,10/31/2025,Laura Barker,roger58@gmail.com,Milk Chocolate Bar,Gifts,4,6.67,5,Mobile Payment,Airport Kiosk,Jonathan,25.35
+INV1138,6/8/2025,Christopher Potter,allisonkathryn@gmail.com,Dark Chocolate Bar,Bars,5,22.04,15,Cash,Airport Kiosk,Kevin,93.67
+INV1139,3/30/2025,George Cannon,paulwalker@yahoo.com,Chocolate Truffles,Nuts,8,19.97,5,Credit Card,Mall Outlet,Janice,151.77
+INV1140,1/19/2026,Megan Morales,esparks@hotmail.com,Chocolate Gift Box,Bars,5,19.85,5,Credit Card,Mall Outlet,Paul,94.29
+INV1141,11/16/2025,Jason Price,mcphersontyler@johns.com,Dark Chocolate Bar,Beverages,8,21.51,5,Credit Card,Uptown,Allen,163.48
+INV1142,6/16/2025,Madison Fitzgerald,kimberly63@hotmail.com,Chocolate Truffles,Bars,1,19.62,5,Online Transfer,Downtown,David,18.64
+INV1143,2/14/2025,Douglas Rowe,tbrown@hotmail.com,Milk Chocolate Bar,Bars,9,16.59,10,Online Transfer,Airport Kiosk,Mark,134.38
+INV1144,8/21/2025,Joshua Anthony,xwolfe@cruz.net,Dark Chocolate Bar,Bars,6,5.45,15,Cash,Airport Kiosk,Dennis,27.8
+INV1145,9/29/2025,Heather Foster,lyoung@wright.com,Chocolate Gift Box,Gifts,3,3.23,10,Cash,Downtown,Kelly,8.72
+INV1146,5/5/2025,Jordan Garcia,ksmith@smith.com,Chocolate Gift Box,Bars,8,23.22,15,Online Transfer,Airport Kiosk,John,157.9
+INV1147,10/22/2025,Kelly Kirk,maysmisty@hotmail.com,Chocolate-Covered Nuts,Nuts,9,16.37,5,Cash,Mall Outlet,Joshua,139.96
+INV1148,7/12/2025,James Holmes,michael22@hotmail.com,Hot Chocolate Mix,Beverages,6,20.42,0,Mobile Payment,Mall Outlet,Katelyn,122.52
+INV1149,4/23/2025,Brandi Gaines,tlarson@mejia.com,White Chocolate Bar,Beverages,7,13.33,10,Mobile Payment,Airport Kiosk,Desiree,83.98
+INV1150,8/28/2025,Thomas Austin,kaustin@hotmail.com,Chocolate Truffles,Bars,1,5.14,0,Online Transfer,Mall Outlet,David,5.14
+INV1151,3/9/2025,Cheryl Pearson,dhall@yahoo.com,Chocolate-Covered Nuts,Gifts,5,5.32,10,Cash,Mall Outlet,Carolyn,23.94
+INV1152,12/17/2025,Michael George,thomas88@gmail.com,White Chocolate Bar,Gifts,5,17.93,5,Credit Card,Airport Kiosk,Travis,85.17
+INV1153,5/10/2025,Melissa Anderson,elizabeth75@santana.com,White Chocolate Bar,Nuts,4,12.18,10,Mobile Payment,Uptown,Tammy,43.85
+INV1154,2/1/2026,Ashley Houston,yward@steele.com,Dark Chocolate Bar,Bars,6,7.01,5,Online Transfer,Downtown,Angela,39.96
+INV1155,12/11/2025,Dean Campbell,qjoseph@yahoo.com,White Chocolate Bar,Beverages,7,13.56,10,Cash,Mall Outlet,Todd,85.43
+INV1156,9/15/2025,Sheri Mitchell,mary12@gmail.com,Hot Chocolate Mix,Gifts,9,3.94,5,Online Transfer,Uptown,Elizabeth,33.69
+INV1157,1/23/2026,Steven Roberts,gsanchez@yahoo.com,Chocolate Gift Box,Bars,1,15.59,5,Credit Card,Mall Outlet,Alicia,14.81
+INV1158,4/4/2025,Andrew Howell,katherinepowell@hughes-russell.net,Chocolate-Covered Nuts,Gifts,6,8.55,15,Mobile Payment,Mall Outlet,Catherine,43.6
+INV1159,10/24/2025,Maria Perry,mthomas@yahoo.com,White Chocolate Bar,Gifts,7,20.45,5,Online Transfer,Downtown,Diana,135.99
+INV1160,11/12/2025,Cynthia Cantu,tannerjones@cameron.com,Dark Chocolate Bar,Beverages,3,9.48,15,Online Transfer,Mall Outlet,Edward,24.17
+INV1161,12/28/2025,Amber Roberts,jacquelineharris@gmail.com,Hot Chocolate Mix,Truffles,8,12.74,5,Online Transfer,Downtown,Laurie,96.82
+INV1162,9/11/2025,William Smith,alex37@hotmail.com,Milk Chocolate Bar,Nuts,5,2.76,0,Credit Card,Downtown,Malik,13.8
+INV1163,6/11/2025,Janet Smith,pruittsheila@hotmail.com,Chocolate Gift Box,Nuts,9,4.13,5,Online Transfer,Downtown,Amanda,35.31
+INV1164,1/3/2026,Olivia Robinson,ilowe@yahoo.com,Chocolate Gift Box,Beverages,5,11.33,0,Credit Card,Uptown,Daniel,56.65
+INV1165,3/25/2025,Abigail Cook,xcontreras@powell-bell.net,Chocolate-Covered Nuts,Gifts,9,13.3,0,Credit Card,Airport Kiosk,John,119.7
+INV1166,2/23/2025,James Barr,charlesdavis@strickland.biz,Chocolate Gift Box,Bars,4,16,5,Credit Card,Uptown,Scott,60.8
+INV1167,9/30/2025,Mr. Shaun Schneider,laurengibson@hotmail.com,White Chocolate Bar,Gifts,9,9.06,0,Mobile Payment,Airport Kiosk,Robert,81.54
+INV1168,9/4/2025,Aaron Anderson,wolfejessica@gmail.com,Dark Chocolate Bar,Beverages,5,18.14,15,Mobile Payment,Airport Kiosk,Nathan,77.1
+INV1169,12/12/2025,Jason Finley,griffincharles@gmail.com,Chocolate Gift Box,Nuts,9,21.85,10,Online Transfer,Downtown,Kelsey,176.98
+INV1170,2/12/2025,Karen Francis,vsmith@romero.org,Chocolate Gift Box,Gifts,3,20.05,5,Online Transfer,Mall Outlet,Glenn,57.14
+INV1171,10/18/2025,Kimberly Higgins,cbolton@gmail.com,Milk Chocolate Bar,Nuts,4,3.39,0,Mobile Payment,Downtown,Carmen,13.56
+INV1172,6/21/2025,Terri Martin,sharpscott@ryan-miller.com,Milk Chocolate Bar,Bars,9,13.31,5,Cash,Mall Outlet,Connor,113.8
+INV1173,5/30/2025,Joshua Watts,markjimenez@fletcher.com,Chocolate Truffles,Nuts,6,4.86,15,Mobile Payment,Airport Kiosk,Dennis,24.79
+INV1174,4/29/2025,Jeremy Anderson,dominique74@park.net,Hot Chocolate Mix,Nuts,2,7.95,5,Credit Card,Downtown,Jorge,15.1
+INV1175,7/1/2025,Lisa Bennett,eduardogarrison@yahoo.com,White Chocolate Bar,Truffles,7,24.7,5,Mobile Payment,Mall Outlet,Linda,164.26
+INV1176,5/28/2025,Dr. Jonathan Holland,piercetiffany@fleming.com,Chocolate Gift Box,Truffles,2,5.71,0,Credit Card,Uptown,Jake,11.42
+INV1177,7/16/2025,Kevin Mcgrath,oharris@gmail.com,Chocolate Gift Box,Truffles,2,13.72,15,Online Transfer,Mall Outlet,Lisa,23.32
+INV1178,6/2/2025,Tracey Oconnor,abigail51@gmail.com,Dark Chocolate Bar,Nuts,1,16.41,10,Cash,Downtown,Isaac,14.77
+INV1179,6/20/2025,Caleb Nash,lisajenkins@kirk.com,Chocolate Truffles,Beverages,3,18.31,10,Online Transfer,Uptown,Shelly,49.44
+INV1180,5/16/2025,Tammy Harris,jenniferrussell@gmail.com,Hot Chocolate Mix,Nuts,6,15.09,0,Credit Card,Mall Outlet,Anthony,90.54
+INV1181,7/9/2025,Sierra Jackson,jesusflores@sanchez.com,Chocolate Truffles,Beverages,8,2.72,5,Credit Card,Mall Outlet,James,20.67
+INV1182,9/2/2025,James Garcia,garciajamie@yahoo.com,Chocolate-Covered Nuts,Beverages,9,9.85,0,Credit Card,Mall Outlet,Larry,88.65
+INV1183,8/26/2025,Traci Lee,vferguson@moore.com,Hot Chocolate Mix,Truffles,7,14.15,0,Cash,Mall Outlet,Michael,99.05
+INV1184,12/1/2025,Amy Steele,christybailey@yahoo.com,Chocolate Gift Box,Gifts,4,4.48,0,Mobile Payment,Mall Outlet,Katrina,17.92
+INV1185,2/9/2025,Kimberly Chen DDS,jodi94@vasquez.net,Chocolate Gift Box,Bars,6,10.39,5,Online Transfer,Uptown,Candice,59.22
+INV1186,11/8/2025,Anna Edwards,keithhoward@hotmail.com,Hot Chocolate Mix,Truffles,5,3.25,15,Online Transfer,Airport Kiosk,Jerry,13.81
+INV1187,3/22/2025,Kevin Escobar,smithkelsey@yahoo.com,Chocolate Gift Box,Truffles,8,4.27,0,Mobile Payment,Uptown,David,34.16
+INV1188,8/12/2025,Kelly Lara,stephen11@prince.org,White Chocolate Bar,Gifts,1,11.43,5,Online Transfer,Uptown,Denise,10.86
+INV1189,4/25/2025,Jennifer Sutton,mckenziepatricia@yahoo.com,Hot Chocolate Mix,Bars,1,5.49,15,Cash,Uptown,Charles,4.67
+INV1190,2/18/2025,Dr. Jamie Smith,jason40@davis-pennington.biz,Chocolate Truffles,Nuts,6,15.27,0,Online Transfer,Airport Kiosk,Sonya,91.62
+INV1191,4/13/2025,Ian Brown,smithscott@gmail.com,Hot Chocolate Mix,Nuts,2,18.01,10,Credit Card,Downtown,Austin,32.42
+INV1192,6/27/2025,Shane Adams,alexandrastevens@mcbride-manning.com,Chocolate Gift Box,Truffles,5,20.51,15,Mobile Payment,Airport Kiosk,Glen,87.17
+INV1193,7/23/2025,Joshua Stephens,thomasrodriguez@yahoo.com,White Chocolate Bar,Bars,1,7,0,Cash,Uptown,Brian,7
+INV1194,7/21/2025,Elizabeth Wheeler,lisa85@hotmail.com,White Chocolate Bar,Truffles,7,6.27,15,Mobile Payment,Mall Outlet,Robert,37.31
+INV1195,3/14/2025,Michael Richards,jonesbarbara@hawkins.com,Chocolate-Covered Nuts,Beverages,1,4.85,15,Cash,Mall Outlet,Samantha,4.12
+INV1196,6/4/2025,Sarah Cochran,ecarpenter@ortiz.com,Chocolate Truffles,Truffles,4,16.82,15,Credit Card,Uptown,Brandi,57.19
+INV1197,1/12/2026,Karen Johnson,matthew26@gmail.com,Milk Chocolate Bar,Truffles,9,18.4,15,Mobile Payment,Mall Outlet,Elizabeth,140.76
+INV1198,7/9/2025,Tammy Simon,ohoffman@gmail.com,Milk Chocolate Bar,Nuts,1,3.21,15,Online Transfer,Uptown,Randy,2.73
+INV1199,4/18/2025,Taylor Walker,odaniels@evans.com,Hot Chocolate Mix,Nuts,4,23.56,15,Cash,Mall Outlet,John,80.1
+INV1200,3/29/2025,James Weber,jensencarrie@nguyen.com,Chocolate-Covered Nuts,Nuts,6,3.67,0,Mobile Payment,Airport Kiosk,Tracy,22.02
+INV1201,10/22/2025,Thomas Benitez,thomas27@johnson.org,Dark Chocolate Bar,Beverages,6,14.68,10,Online Transfer,Downtown,Kevin,79.27
+INV1202,4/18/2025,Michael Fisher,fishershawn@yahoo.com,Hot Chocolate Mix,Nuts,8,18.45,5,Mobile Payment,Downtown,Kim,140.22
+INV1203,11/26/2025,Jason Stokes,hurleyjonathan@howard.com,Chocolate-Covered Nuts,Bars,1,22.1,15,Mobile Payment,Airport Kiosk,Christine,18.78
+INV1204,4/8/2025,Brandon Thomas,ronaldwilliams@gmail.com,Chocolate Truffles,Gifts,7,18.57,5,Mobile Payment,Airport Kiosk,Randy,123.49
+INV1205,7/3/2025,Karen Fields,terri93@hotmail.com,Chocolate Truffles,Bars,1,20.54,0,Cash,Uptown,Nicole,20.54
+INV1206,8/18/2025,Stephanie Brown,victoriaherrera@mendez.com,Chocolate Truffles,Bars,7,10.14,15,Online Transfer,Uptown,Angela,60.33
+INV1207,3/14/2025,Brandon Brady,jamesnguyen@gmail.com,Chocolate Truffles,Nuts,3,20.83,10,Credit Card,Uptown,Kimberly,56.24
+INV1208,7/15/2025,Sarah Fisher,pmurphy@hardin.info,Chocolate Truffles,Gifts,8,4.3,5,Cash,Mall Outlet,Kyle,32.68
+INV1209,1/13/2026,Jason Morales,emily86@hotmail.com,Chocolate-Covered Nuts,Gifts,3,22.63,15,Cash,Uptown,Matthew,57.71
+INV1210,2/1/2026,Patrick Melendez,julie31@white.com,Chocolate-Covered Nuts,Gifts,1,14.82,0,Cash,Airport Kiosk,Jesse,14.82
+INV1211,4/15/2025,Dylan Wells,ldavis@hotmail.com,White Chocolate Bar,Beverages,8,20.89,10,Credit Card,Downtown,Kevin,150.41
+INV1212,8/13/2025,Earl James,smitheric@potter-moore.com,Milk Chocolate Bar,Nuts,3,12.68,5,Online Transfer,Mall Outlet,Lisa,36.14
+INV1213,3/8/2025,Amy Hess,dwilliams@gmail.com,Chocolate Gift Box,Gifts,2,16.98,5,Online Transfer,Uptown,Robert,32.26
+INV1214,5/25/2025,Kristine Phillips,adriankim@foster-copeland.biz,Chocolate Truffles,Beverages,1,14.34,15,Online Transfer,Mall Outlet,James,12.19
+INV1215,4/9/2025,Anthony Hawkins,emily29@miller.biz,Dark Chocolate Bar,Truffles,3,18.96,10,Mobile Payment,Mall Outlet,Charles,51.19
+INV1216,10/23/2025,Megan Stewart,gtran@yahoo.com,Chocolate Gift Box,Truffles,2,4.34,10,Mobile Payment,Uptown,Brandy,7.81
+INV1217,6/21/2025,Zoe Gutierrez,clarkandrew@yahoo.com,Chocolate-Covered Nuts,Beverages,2,3.86,10,Mobile Payment,Mall Outlet,Lindsay,6.95
+INV1218,4/4/2025,Nathaniel Barnes,cassandraallen@mason.com,Dark Chocolate Bar,Beverages,6,8.06,10,Credit Card,Downtown,Michael,43.52
+INV1219,5/28/2025,Steven Harris,ostanley@moreno-rivera.info,Dark Chocolate Bar,Nuts,1,6.09,0,Mobile Payment,Airport Kiosk,Stacey,6.09
+INV1220,6/17/2025,Gary Carey,fritzjames@robertson.biz,Dark Chocolate Bar,Nuts,2,22.12,10,Credit Card,Airport Kiosk,Carly,39.82
+INV1221,4/9/2025,Robert Miller,jeffrey47@hotmail.com,White Chocolate Bar,Truffles,6,7.43,5,Online Transfer,Downtown,Dylan,42.35
+INV1222,1/21/2026,Jennifer Alvarez,connie64@yahoo.com,Chocolate-Covered Nuts,Gifts,3,24.46,5,Mobile Payment,Mall Outlet,Jeffrey,69.71
+INV1223,4/4/2025,Joshua White,robertskristin@hotmail.com,Dark Chocolate Bar,Truffles,4,10.08,0,Mobile Payment,Uptown,Jason,40.32
+INV1224,11/10/2025,Stephen Scott,along@hotmail.com,Chocolate Truffles,Gifts,1,6.6,5,Cash,Mall Outlet,Patricia,6.27
+INV1225,6/12/2025,Danielle Nichols,qtaylor@newton-delgado.net,Hot Chocolate Mix,Gifts,8,20.27,5,Credit Card,Downtown,Dylan,154.05
+INV1226,3/13/2025,Scott Pierce,carterashley@hotmail.com,Dark Chocolate Bar,Nuts,7,17.32,10,Online Transfer,Mall Outlet,Norma,109.12
+INV1227,1/15/2026,Alyssa Keith,raymondjennifer@ortiz.com,White Chocolate Bar,Bars,7,13.71,5,Cash,Airport Kiosk,Jennifer,91.17
+INV1228,7/8/2025,Gabriella Mendoza,holmesjames@stuart.com,Chocolate Gift Box,Bars,3,15,0,Cash,Mall Outlet,Megan,45
+INV1229,6/30/2025,Tina Riggs,torresjennifer@gmail.com,Chocolate-Covered Nuts,Beverages,3,18.68,10,Online Transfer,Downtown,James,50.44
+INV1230,3/31/2025,Ethan Mitchell,melissa75@peters.com,White Chocolate Bar,Nuts,2,7.64,15,Cash,Airport Kiosk,Michael,12.99
+INV1231,1/13/2026,Ernest Greene,jhickman@brandt.net,Dark Chocolate Bar,Gifts,1,24.92,10,Credit Card,Mall Outlet,Anita,22.43
+INV1232,12/19/2025,Jessica Dixon,ymaynard@dominguez.biz,Chocolate-Covered Nuts,Bars,7,24.43,0,Credit Card,Mall Outlet,Wendy,171.01
+INV1233,2/6/2026,Heidi Higgins,tara80@gmail.com,Hot Chocolate Mix,Gifts,7,17.13,10,Mobile Payment,Airport Kiosk,Shane,107.92
+INV1234,9/24/2025,Jeffrey Perkins,gregory00@hotmail.com,Dark Chocolate Bar,Bars,2,6.99,10,Cash,Uptown,Amanda,12.58
+INV1235,8/12/2025,Margaret Miller,meganrichardson@andrade-jackson.biz,White Chocolate Bar,Bars,7,17.81,0,Mobile Payment,Airport Kiosk,Meghan,124.67
+INV1236,4/17/2025,Erin Myers,juliathomas@silva.com,Milk Chocolate Bar,Bars,8,4.12,10,Cash,Uptown,Daniel,29.66
+INV1237,2/14/2025,Bradley Mckee,carmenvega@jones-gamble.info,Chocolate Truffles,Nuts,1,3.19,0,Credit Card,Downtown,Lisa,3.19
+INV1238,3/9/2025,Andrew Smith Jr.,brucejackson@yahoo.com,Chocolate Gift Box,Truffles,9,8.3,0,Credit Card,Downtown,Gregory,74.7
+INV1239,5/29/2025,Scott Montoya,uhughes@evans.com,White Chocolate Bar,Gifts,7,12.91,15,Credit Card,Airport Kiosk,Brandon,76.81
+INV1240,11/19/2025,Brittney Hernandez,lisameyers@yahoo.com,Chocolate-Covered Nuts,Nuts,3,22.04,5,Cash,Airport Kiosk,Richard,62.81
+INV1241,1/22/2026,Danielle Murray,deniseguerra@yahoo.com,Dark Chocolate Bar,Nuts,8,18.86,5,Credit Card,Downtown,Mary,143.34
+INV1242,3/9/2025,Nathaniel Curtis,carterchristopher@gmail.com,Chocolate Truffles,Nuts,7,19.21,10,Cash,Uptown,Peter,121.02
+INV1243,5/24/2025,Karina Vaughan,longcrystal@jones.com,Dark Chocolate Bar,Nuts,8,12.07,10,Mobile Payment,Downtown,Jennifer,86.9
+INV1244,11/21/2025,Nicholas Torres,ujackson@yahoo.com,Chocolate-Covered Nuts,Nuts,6,10.28,15,Cash,Airport Kiosk,James,52.43
+INV1245,12/2/2025,Tracie Miller,dominguezsavannah@yahoo.com,Dark Chocolate Bar,Beverages,9,10.85,15,Mobile Payment,Downtown,Justin,83
+INV1246,7/13/2025,Gregory Brewer,lisareeves@gmail.com,Milk Chocolate Bar,Gifts,5,24.72,15,Cash,Airport Kiosk,Jeremy,105.06
+INV1247,6/3/2025,Yesenia Smith,joshuawu@hotmail.com,Chocolate Truffles,Nuts,3,3.4,0,Mobile Payment,Airport Kiosk,Abigail,10.2
+INV1248,10/3/2025,Todd Walker,humphreystephen@olson-serrano.org,Chocolate Truffles,Gifts,3,22.01,15,Credit Card,Downtown,Shelby,56.13
+INV1249,12/10/2025,Jessica Black,vrangel@villarreal-sanchez.org,Chocolate-Covered Nuts,Beverages,1,15.52,15,Mobile Payment,Uptown,Latasha,13.19
+INV1250,7/8/2025,Brittany Delgado,travis38@gonzalez.com,Chocolate Gift Box,Beverages,8,12.37,10,Credit Card,Mall Outlet,Ronald,89.06
+INV1251,5/18/2025,Adam Williams,jackmorgan@butler-bray.com,Milk Chocolate Bar,Gifts,2,18.82,15,Credit Card,Downtown,Robert,31.99
+INV1252,3/23/2025,Amanda Wagner,igarcia@gray-collins.com,White Chocolate Bar,Bars,3,13.45,0,Mobile Payment,Mall Outlet,Caleb,40.35
+INV1253,6/15/2025,Leslie Warner,vbennett@colon-thompson.com,Dark Chocolate Bar,Truffles,8,22.15,0,Cash,Downtown,Michael,177.2
+INV1254,12/20/2025,Tyler Matthews,lcastillo@hotmail.com,Hot Chocolate Mix,Bars,8,22.77,10,Cash,Mall Outlet,Haley,163.94
+INV1255,5/27/2025,Alicia Castro,kgriffin@santos.info,Dark Chocolate Bar,Bars,4,11.99,15,Online Transfer,Uptown,Michael,40.77
+INV1256,4/26/2025,Kathryn Flowers,kevinanderson@gmail.com,Dark Chocolate Bar,Bars,4,8.73,15,Cash,Uptown,Caleb,29.68
+INV1257,12/17/2025,Jordan Washington,grivera@black.com,White Chocolate Bar,Nuts,5,15.83,0,Online Transfer,Downtown,Brandon,79.15
+INV1258,1/28/2026,Valerie Brown,lauramendez@hotmail.com,Dark Chocolate Bar,Beverages,6,23.03,15,Cash,Airport Kiosk,Andrew,117.45
+INV1259,6/22/2025,Abigail Patel,jonathon22@fitzgerald.com,Milk Chocolate Bar,Bars,5,7.24,15,Cash,Mall Outlet,Scott,30.77
+INV1260,5/16/2025,Kendra Mendoza,hfisher@walker-crawford.com,Milk Chocolate Bar,Beverages,7,16.52,15,Credit Card,Airport Kiosk,Elizabeth,98.29
+INV1261,11/4/2025,Linda Edwards,natasha38@hotmail.com,Chocolate Truffles,Gifts,2,16.71,5,Online Transfer,Airport Kiosk,Ryan,31.75
+INV1262,1/31/2026,Lance Kelly,michael57@gmail.com,Chocolate-Covered Nuts,Truffles,7,19,10,Cash,Airport Kiosk,Joann,119.7
+INV1263,8/7/2025,Lori Davis,davidtodd@yahoo.com,Chocolate Gift Box,Gifts,7,5.46,5,Online Transfer,Uptown,Dylan,36.31
+INV1264,12/23/2025,Christian Larsen,cummingsjanice@yahoo.com,Hot Chocolate Mix,Gifts,1,18.61,10,Credit Card,Downtown,Audrey,16.75
+INV1265,8/10/2025,Kathleen Thomas,amymcclain@coleman.com,Dark Chocolate Bar,Nuts,7,22.95,0,Credit Card,Downtown,Nancy,160.65
+INV1266,10/7/2025,Blake Carpenter,dstone@rodriguez.com,Dark Chocolate Bar,Truffles,5,6.54,15,Online Transfer,Uptown,Ruth,27.8
+INV1267,6/9/2025,Mark Cisneros,bsolis@mcdonald.biz,White Chocolate Bar,Gifts,3,7.84,10,Credit Card,Uptown,Susan,21.17
+INV1268,2/8/2025,Travis Hayes,jessica11@gmail.com,Chocolate-Covered Nuts,Gifts,3,24.36,5,Mobile Payment,Downtown,William,69.43
+INV1269,4/2/2025,Justin Hernandez,stephensapril@yahoo.com,Milk Chocolate Bar,Truffles,4,6.57,15,Mobile Payment,Airport Kiosk,Nicholas,22.34
+INV1270,10/3/2025,Bethany Allison,christina75@bradshaw.com,Hot Chocolate Mix,Truffles,2,21.72,0,Credit Card,Mall Outlet,Jonathan,43.44
+INV1271,11/7/2025,Jessica Bowman,williehamilton@gmail.com,Chocolate Truffles,Gifts,2,13.58,10,Mobile Payment,Mall Outlet,Kylie,24.44
+INV1272,9/28/2025,Mrs. Stephanie Duran,slewis@yahoo.com,Milk Chocolate Bar,Truffles,1,8.06,10,Cash,Mall Outlet,Brittany,7.25
+INV1273,6/20/2025,Craig Perez,bassashley@flynn-hartman.biz,Chocolate-Covered Nuts,Gifts,5,22.09,10,Online Transfer,Airport Kiosk,Margaret,99.4
+INV1274,4/20/2025,Rebecca White,codybrown@hotmail.com,Chocolate Gift Box,Gifts,4,12.52,15,Cash,Downtown,Harold,42.57
+INV1275,7/7/2025,Jacob Hill,robertsonryan@gonzales.com,Chocolate Truffles,Nuts,2,14.08,5,Online Transfer,Uptown,Elizabeth,26.75
+INV1276,9/13/2025,Rebecca Foley,patty91@yahoo.com,Chocolate Gift Box,Bars,3,10.58,5,Credit Card,Downtown,Lucas,30.15
+INV1277,12/30/2025,Melissa Gates,jonathanarnold@hotmail.com,White Chocolate Bar,Gifts,7,15.84,10,Cash,Airport Kiosk,Pamela,99.79
+INV1278,11/29/2025,Mr. Robert Jackson,amoreno@yahoo.com,White Chocolate Bar,Beverages,7,6.18,0,Credit Card,Uptown,Malik,43.26
+INV1279,3/21/2025,Anthony Obrien,michael76@hotmail.com,Dark Chocolate Bar,Bars,4,11.3,0,Credit Card,Airport Kiosk,Felicia,45.2
+INV1280,9/23/2025,Anna Mendoza,matthew19@hotmail.com,Chocolate Gift Box,Bars,5,24.31,5,Online Transfer,Mall Outlet,Danielle,115.47
+INV1281,6/28/2025,Amber Zavala,ltran@yahoo.com,Chocolate-Covered Nuts,Bars,5,8.31,0,Online Transfer,Mall Outlet,Nicole,41.55
+INV1282,5/14/2025,John Thompson,jonesapril@gmail.com,Hot Chocolate Mix,Nuts,6,17.28,5,Online Transfer,Airport Kiosk,Melissa,98.5
+INV1283,9/14/2025,Eric Potts,sschmitt@austin.com,Chocolate Truffles,Gifts,9,9.82,10,Cash,Uptown,Teresa,79.54
+INV1284,10/7/2025,Jamie Hernandez,jasonmata@hotmail.com,Milk Chocolate Bar,Nuts,2,19.9,5,Mobile Payment,Uptown,Meghan,37.81
+INV1285,3/31/2025,Susan Terry,carrillobrian@gonzales.com,Chocolate-Covered Nuts,Gifts,5,5.44,5,Online Transfer,Downtown,Kenneth,25.84
+INV1286,6/21/2025,Ruben Ramos,williammartinez@hotmail.com,Chocolate-Covered Nuts,Nuts,3,24.32,10,Online Transfer,Mall Outlet,Lisa,65.66
+INV1287,11/17/2025,Michael Roberts,warnold@odom-black.com,White Chocolate Bar,Nuts,4,12.71,0,Cash,Downtown,Jeanette,50.84
+INV1288,2/6/2025,Lindsay Payne,kward@sampson.com,Chocolate Gift Box,Beverages,6,7.81,5,Online Transfer,Downtown,Kim,44.52
+INV1289,2/10/2025,Mr. Timothy Bates DDS,tortiz@yahoo.com,Dark Chocolate Bar,Nuts,8,4.15,5,Cash,Airport Kiosk,Ralph,31.54
+INV1290,2/7/2025,Antonio Anderson,jamessantos@yahoo.com,Dark Chocolate Bar,Truffles,1,6.32,10,Credit Card,Airport Kiosk,Eric,5.69
+INV1291,11/2/2025,Angela Saunders,fwatson@johnson.com,Chocolate Truffles,Beverages,8,14.19,0,Online Transfer,Downtown,Jesse,113.52
+INV1292,12/14/2025,Michael Byrd,jessica39@fitzpatrick.com,White Chocolate Bar,Nuts,7,10.08,5,Online Transfer,Mall Outlet,Andrea,67.03
+INV1293,12/15/2025,Russell Pace,amy15@hubbard-diaz.com,Chocolate-Covered Nuts,Bars,1,21.15,10,Credit Card,Airport Kiosk,Jeremiah,19.04
+INV1294,7/11/2025,Terri Barnes,gstewart@hotmail.com,Hot Chocolate Mix,Truffles,2,12.19,5,Credit Card,Downtown,Tyrone,23.16
+INV1295,1/15/2026,Anita Schmidt,mark17@gmail.com,White Chocolate Bar,Truffles,3,8.1,15,Credit Card,Downtown,Brittany,20.65
+INV1296,10/16/2025,Jaime Boyd,jamie33@hotmail.com,Chocolate Truffles,Truffles,1,16.39,10,Online Transfer,Downtown,Robert,14.75
+INV1297,6/3/2025,Steven Martin,ribarra@hotmail.com,Chocolate Truffles,Beverages,9,18.4,0,Mobile Payment,Downtown,Edward,165.6
+INV1298,11/14/2025,Michael Matthews,myersdouglas@gmail.com,White Chocolate Bar,Nuts,8,6.26,0,Mobile Payment,Downtown,Kyle,50.08
+INV1299,2/1/2026,Mary Thomas,jerryallen@bryan.com,Chocolate Truffles,Nuts,2,6.27,0,Mobile Payment,Downtown,Monica,12.54
+INV1300,12/12/2025,Laura Williams,nathankelley@goodman.com,White Chocolate Bar,Bars,9,3.33,0,Online Transfer,Airport Kiosk,Joanna,29.97
+INV1301,4/20/2025,Tammy Hall,matthew59@baker.org,Milk Chocolate Bar,Bars,7,19.07,5,Credit Card,Mall Outlet,David,126.82
+INV1302,11/25/2025,Kimberly Skinner,gabriellestein@dunn-carroll.com,White Chocolate Bar,Truffles,9,17.44,5,Online Transfer,Downtown,Ashley,149.11
+INV1303,7/11/2025,Brian Jennings,prangel@yahoo.com,Chocolate Gift Box,Bars,6,13.18,0,Credit Card,Uptown,Vincent,79.08
+INV1304,12/14/2025,Michelle Davis,christopher62@white.com,White Chocolate Bar,Beverages,6,21.49,0,Online Transfer,Airport Kiosk,Michelle,128.94
+INV1305,2/8/2025,Kathryn Blair,qanderson@gardner-wilson.biz,Chocolate Truffles,Nuts,4,20.63,0,Online Transfer,Airport Kiosk,James,82.52
+INV1306,7/30/2025,Lee Thomas,hkerr@hale-rogers.com,Chocolate Gift Box,Truffles,2,15.67,5,Credit Card,Downtown,Nicholas,29.77
+INV1307,11/17/2025,Dr. Kimberly Stevenson MD,jonathanyoung@gmail.com,Chocolate Truffles,Bars,7,22.04,0,Mobile Payment,Airport Kiosk,Robert,154.28
+INV1308,12/25/2025,Shannon Henson,kellyvelazquez@hotmail.com,Dark Chocolate Bar,Beverages,5,7.13,0,Credit Card,Downtown,Marcus,35.65
+INV1309,10/6/2025,Michael Lewis,robertlindsey@hotmail.com,Dark Chocolate Bar,Beverages,6,5.02,15,Cash,Mall Outlet,Pamela,25.6
+INV1310,8/2/2025,Rebecca Chapman,wolfjill@webster-moreno.com,Chocolate Gift Box,Bars,2,8.57,15,Cash,Mall Outlet,Shelby,14.57
+INV1311,6/17/2025,William Young,kendra86@burns-scott.biz,Milk Chocolate Bar,Nuts,5,3.78,0,Credit Card,Airport Kiosk,Steve,18.9
+INV1312,7/16/2025,David Burgess,awilkinson@hotmail.com,Dark Chocolate Bar,Bars,4,14.45,10,Online Transfer,Airport Kiosk,Alvin,52.02
+INV1313,11/19/2025,Robert Pitts,tharrell@yahoo.com,White Chocolate Bar,Truffles,9,23.57,0,Cash,Uptown,Michael,212.13
+INV1314,7/21/2025,Isabella Taylor,duranperry@hotmail.com,Chocolate Truffles,Bars,6,3.39,15,Cash,Airport Kiosk,Ariel,17.29
+INV1315,3/2/2025,Jason Garcia,petersonlee@long-cruz.com,Dark Chocolate Bar,Beverages,2,5.25,10,Online Transfer,Uptown,Jon,9.45
+INV1316,1/10/2026,Amanda Johnson,singletonwilliam@yahoo.com,Dark Chocolate Bar,Bars,1,12.67,10,Online Transfer,Mall Outlet,Michael,11.4
+INV1317,12/2/2025,Ariel Page,floresann@hotmail.com,Milk Chocolate Bar,Nuts,5,23.51,0,Mobile Payment,Mall Outlet,Fred,117.55
+INV1318,12/8/2025,Richard Freeman,donald98@gmail.com,Chocolate Gift Box,Gifts,9,9.61,15,Online Transfer,Downtown,Brandon,73.52
+INV1319,10/2/2025,Jeffrey Peterson,caitlinkrueger@gutierrez.org,Chocolate Gift Box,Bars,6,13.91,15,Credit Card,Mall Outlet,Michelle,70.94
+INV1320,7/28/2025,Sheila Mendoza,tara55@taylor.biz,Chocolate-Covered Nuts,Nuts,7,3.44,10,Credit Card,Uptown,Dana,21.67
+INV1321,3/3/2025,Tammy Owens,xlindsey@yahoo.com,Milk Chocolate Bar,Nuts,5,5.84,0,Mobile Payment,Airport Kiosk,Zachary,29.2
+INV1322,11/27/2025,Dalton Smith,casepaul@cox-mayer.org,White Chocolate Bar,Beverages,6,24.7,5,Cash,Downtown,Charles,140.79
+INV1323,3/14/2025,Jonathan Rodriguez,veronica98@hughes.com,Chocolate Gift Box,Nuts,5,24.22,5,Cash,Uptown,Tammy,115.04
+INV1324,5/6/2025,Mark Jones MD,egonzalez@johnson.biz,Chocolate Truffles,Nuts,9,2.61,15,Online Transfer,Airport Kiosk,William,19.97
+INV1325,3/3/2025,Andrew Lawrence,russellwilliam@green-wilson.com,Milk Chocolate Bar,Nuts,6,23.92,5,Credit Card,Downtown,Gerald,136.34
+INV1326,10/12/2025,Jacob Johnson,josephwilliams@gmail.com,Dark Chocolate Bar,Nuts,8,16.88,15,Cash,Mall Outlet,Alyssa,114.78
+INV1327,7/27/2025,Stephanie Bernard,andrea41@hotmail.com,Chocolate Truffles,Truffles,2,22.03,15,Mobile Payment,Uptown,Michelle,37.45
+INV1328,3/27/2025,Michael Thomas,abennett@hotmail.com,Chocolate Truffles,Truffles,9,12.73,15,Mobile Payment,Airport Kiosk,Antonio,97.38
+INV1329,1/11/2026,Kimberly Meyer,zbryant@hotmail.com,Dark Chocolate Bar,Beverages,5,14.1,5,Credit Card,Downtown,April,66.97
+INV1330,9/5/2025,Joshua Weiss,nwalsh@hotmail.com,Milk Chocolate Bar,Bars,7,13.5,15,Mobile Payment,Downtown,Benjamin,80.32
+INV1331,6/7/2025,Lisa Vance,sarasmith@yahoo.com,Dark Chocolate Bar,Nuts,1,17.5,10,Mobile Payment,Mall Outlet,Alejandra,15.75
+INV1332,11/4/2025,Katie Bailey,fraziersarah@gmail.com,Chocolate-Covered Nuts,Bars,5,5.64,0,Credit Card,Airport Kiosk,Michelle,28.2
+INV1333,7/26/2025,Robert Arnold,gbecker@hotmail.com,Chocolate Truffles,Bars,2,3.17,0,Online Transfer,Mall Outlet,Richard,6.34
+INV1334,8/5/2025,Matthew Gutierrez,gmcdonald@robinson.net,Hot Chocolate Mix,Beverages,6,9.43,15,Online Transfer,Mall Outlet,Annette,48.09
+INV1335,11/4/2025,Jay Weber,scottchristopher@roberts.info,Hot Chocolate Mix,Nuts,1,18.36,0,Mobile Payment,Airport Kiosk,Bryce,18.36
+INV1336,7/15/2025,Melissa Miller,kkemp@kelly.com,White Chocolate Bar,Nuts,3,7.04,5,Online Transfer,Airport Kiosk,John,20.06
+INV1337,7/5/2025,Mrs. Paula Mathis DVM,howardthomas@gmail.com,Chocolate Gift Box,Gifts,5,17.65,5,Online Transfer,Airport Kiosk,Erika,83.84
+INV1338,7/5/2025,Laurie Diaz,wnunez@yahoo.com,Dark Chocolate Bar,Bars,4,24.32,0,Mobile Payment,Uptown,Adam,97.28
+INV1339,4/28/2025,Brian Grant,csmith@morrison.com,Dark Chocolate Bar,Bars,3,4.61,5,Online Transfer,Airport Kiosk,Tanya,13.14
+INV1340,5/4/2025,Jessica Bush,kriley@yahoo.com,White Chocolate Bar,Truffles,5,17.63,0,Mobile Payment,Downtown,Timothy,88.15
+INV1341,6/18/2025,Richard Choi,charlesjacobson@hotmail.com,White Chocolate Bar,Gifts,8,12.48,0,Cash,Mall Outlet,Hunter,99.84
+INV1342,2/8/2025,Barry Kelley,dsanchez@mccarthy.biz,White Chocolate Bar,Truffles,4,22.03,0,Credit Card,Uptown,James,88.12
+INV1343,5/18/2025,Christopher Phillips,johnsonsarah@rodriguez.com,Chocolate Truffles,Truffles,1,6.49,15,Credit Card,Airport Kiosk,Michael,5.52
+INV1344,12/18/2025,Michele Wright,williamsmichael@hotmail.com,Chocolate-Covered Nuts,Truffles,7,18.08,0,Online Transfer,Uptown,Phyllis,126.56
+INV1345,11/21/2025,Charles Leonard,sethpitts@yahoo.com,Dark Chocolate Bar,Beverages,8,21.36,15,Online Transfer,Airport Kiosk,Ian,145.25
+INV1346,3/20/2025,Vanessa Baldwin,dianarandall@jackson-moore.net,Chocolate Truffles,Beverages,3,23.75,0,Online Transfer,Uptown,Charles,71.25
+INV1347,6/26/2025,Hannah Burke,jessica66@gmail.com,White Chocolate Bar,Truffles,6,17.87,0,Credit Card,Mall Outlet,Rebecca,107.22
+INV1348,1/10/2026,Mary Nguyen,gloverrebecca@yahoo.com,Dark Chocolate Bar,Gifts,2,13.69,0,Cash,Mall Outlet,Pamela,27.38
+INV1349,10/16/2025,Sara Cobb,sarah81@bennett.com,Chocolate Truffles,Bars,7,16.4,5,Cash,Downtown,Peter,109.06
+INV1350,11/4/2025,Carmen Gray,shaunmartinez@roberts-wall.com,Chocolate-Covered Nuts,Gifts,8,22.05,15,Credit Card,Downtown,Jennifer,149.94
+INV1351,1/27/2026,Christian Hutchinson,tfisher@gmail.com,Chocolate Truffles,Nuts,6,15.34,15,Cash,Airport Kiosk,Melissa,78.23
+INV1352,8/12/2025,Megan Burgess,edward97@cooper-todd.com,Chocolate-Covered Nuts,Beverages,6,3.18,0,Credit Card,Mall Outlet,Kristi,19.08
+INV1353,3/13/2025,Wendy Ramirez,davischristopher@fisher.com,White Chocolate Bar,Bars,5,23.45,0,Cash,Uptown,Jacob,117.25
+INV1354,12/13/2025,Kelly Nichols,amanda88@mendez.com,Chocolate-Covered Nuts,Bars,8,18.01,5,Mobile Payment,Uptown,Sarah,136.88
+INV1355,1/24/2026,Mrs. Monica Lopez,lauren62@yahoo.com,Dark Chocolate Bar,Nuts,1,17.72,5,Mobile Payment,Uptown,Katelyn,16.83
+INV1356,3/5/2025,Kevin Santiago,raymond14@scott.net,White Chocolate Bar,Nuts,4,7.35,5,Credit Card,Downtown,Hayley,27.93
+INV1357,7/26/2025,Anthony Levine,shawnrojas@nolan-thompson.com,Dark Chocolate Bar,Truffles,4,17.32,15,Cash,Uptown,Christopher,58.89
+INV1358,9/24/2025,Austin Johnson,drogers@wilkins-hull.net,Hot Chocolate Mix,Beverages,3,11.36,15,Online Transfer,Downtown,Amy,28.97
+INV1359,2/16/2025,Gary Mclaughlin,garnerlawrence@jones.org,Milk Chocolate Bar,Beverages,3,17.15,15,Cash,Downtown,Patricia,43.73
+INV1360,4/26/2025,Robert Kelly,brownrichard@woods.com,Chocolate-Covered Nuts,Gifts,4,4.9,0,Mobile Payment,Airport Kiosk,Billy,19.6
+INV1361,5/11/2025,Denise Baker,carneybelinda@gmail.com,Milk Chocolate Bar,Truffles,1,17.3,15,Mobile Payment,Uptown,Richard,14.7
+INV1362,5/2/2025,Jeffery Zuniga,valerie18@warren-butler.com,Milk Chocolate Bar,Truffles,2,24.99,10,Cash,Uptown,Donald,44.98
+INV1363,12/14/2025,Katherine Raymond,lori24@yahoo.com,Chocolate-Covered Nuts,Truffles,9,3.58,10,Cash,Mall Outlet,Jessica,29
+INV1364,12/7/2025,David Wilson,christophercaldwell@roy.com,White Chocolate Bar,Truffles,2,24.49,5,Online Transfer,Airport Kiosk,Lindsay,46.53
+INV1365,3/17/2025,Michelle Alexander,gmeyer@hotmail.com,Hot Chocolate Mix,Beverages,5,11.66,15,Online Transfer,Mall Outlet,Daniel,49.56
+INV1366,4/8/2025,Jonathan Best,leepeter@gmail.com,Dark Chocolate Bar,Beverages,9,22.09,10,Cash,Airport Kiosk,Ronald,178.93
+INV1367,2/7/2025,Paul Ramirez,davidpalmer@warren.biz,Chocolate Truffles,Truffles,9,20.1,5,Cash,Uptown,Jacob,171.86
+INV1368,10/16/2025,Travis Singh,adamsalexa@payne.com,Dark Chocolate Bar,Gifts,8,15.26,15,Cash,Downtown,Sherry,103.77
+INV1369,2/6/2026,Joel Hernandez,abond@gmail.com,Chocolate Truffles,Bars,1,19.12,0,Cash,Downtown,Lisa,19.12
+INV1370,3/16/2025,Dakota Glass,edwardskenneth@gmail.com,Dark Chocolate Bar,Bars,1,22.27,10,Credit Card,Downtown,Sarah,20.04
+INV1371,8/14/2025,Emily Walsh,elizabethgarcia@gmail.com,Chocolate-Covered Nuts,Gifts,9,11.59,0,Cash,Downtown,Daniel,104.31
+INV1372,5/28/2025,Mrs. Michele Church DVM,robert16@gonzales.com,Hot Chocolate Mix,Truffles,8,9.86,15,Online Transfer,Downtown,Emily,67.05
+INV1373,11/1/2025,Katherine Riley,suttongina@gmail.com,Chocolate Truffles,Beverages,9,17.52,10,Mobile Payment,Mall Outlet,Ryan,141.91
+INV1374,10/31/2025,Rachael Robertson,amanda99@hotmail.com,Chocolate Gift Box,Bars,7,20.68,15,Credit Card,Airport Kiosk,Brian,123.05
+INV1375,6/27/2025,Mr. Steven Poole,vcruz@hotmail.com,White Chocolate Bar,Nuts,3,19.65,0,Cash,Uptown,Ronald,58.95
+INV1376,2/6/2026,Douglas Vaughn,buckleybrian@martinez.com,Dark Chocolate Bar,Nuts,3,20.45,10,Mobile Payment,Mall Outlet,Victoria,55.22
+INV1377,12/14/2025,Brianna Williams,ariel55@escobar.com,Dark Chocolate Bar,Gifts,2,12.3,0,Credit Card,Airport Kiosk,John,24.6
+INV1378,12/31/2025,Brian Barker,aaronmartin@hotmail.com,Chocolate Truffles,Truffles,5,20.9,15,Mobile Payment,Downtown,Gregory,88.82
+INV1379,7/14/2025,Barry Williams,robert36@bush.info,White Chocolate Bar,Bars,3,5.2,15,Cash,Airport Kiosk,Carl,13.26
+INV1380,8/9/2025,Kimberly Nguyen,mccoykeith@hotmail.com,White Chocolate Bar,Truffles,6,14.75,0,Cash,Airport Kiosk,Samuel,88.5
+INV1381,2/6/2025,Jaime Sanford,carl83@yahoo.com,Chocolate-Covered Nuts,Bars,2,2.63,10,Online Transfer,Downtown,Stephen,4.73
+INV1382,2/17/2025,Michael Vargas,bethgill@gmail.com,Chocolate Gift Box,Gifts,3,9.8,0,Cash,Downtown,Julie,29.4
+INV1383,9/19/2025,Johnny Bailey,candiceoneill@choi.net,Chocolate-Covered Nuts,Gifts,5,10.75,15,Cash,Downtown,Christine,45.69
+INV1384,1/11/2026,Mr. James Walters,tristan86@gmail.com,Chocolate-Covered Nuts,Nuts,1,11.41,0,Credit Card,Uptown,Todd,11.41
+INV1385,12/24/2025,Kyle Long,mgiles@berry.com,Chocolate-Covered Nuts,Truffles,1,18.15,15,Online Transfer,Downtown,Joan,15.43
+INV1386,8/18/2025,Margaret Martin,thomasmoon@gmail.com,Chocolate-Covered Nuts,Nuts,9,11.24,0,Credit Card,Uptown,Mary,101.16
+INV1387,1/25/2026,Erik Wolfe,thomas28@yahoo.com,Chocolate-Covered Nuts,Truffles,7,12.6,10,Mobile Payment,Downtown,Matthew,79.38
+INV1388,8/6/2025,Adam Golden,christineevans@gmail.com,Hot Chocolate Mix,Nuts,1,7.84,10,Cash,Uptown,Brian,7.06
+INV1389,11/28/2025,Kristen Parks,powelljennifer@davis.com,White Chocolate Bar,Beverages,8,10.9,0,Mobile Payment,Airport Kiosk,William,87.2
+INV1390,7/10/2025,James Liu,allison58@hotmail.com,Chocolate-Covered Nuts,Beverages,3,7.61,0,Credit Card,Mall Outlet,Kyle,22.83
+INV1391,10/17/2025,Kevin Hobbs,cameroncruz@wu.com,White Chocolate Bar,Beverages,8,4.15,10,Cash,Airport Kiosk,Allen,29.88
+INV1392,2/5/2026,Brian Nelson,owest@norris-dunn.com,White Chocolate Bar,Beverages,5,16.08,15,Cash,Airport Kiosk,Ricky,68.34
+INV1393,6/11/2025,Alice Thompson,brian36@hotmail.com,Milk Chocolate Bar,Bars,1,17.53,10,Credit Card,Downtown,Meredith,15.78
+INV1394,10/31/2025,Juan Roberson,sandramartin@hotmail.com,Hot Chocolate Mix,Beverages,7,16.44,15,Credit Card,Uptown,Rachel,97.82
+INV1395,7/1/2025,Sandra Vincent,megan28@taylor.com,Chocolate-Covered Nuts,Gifts,5,12.93,0,Credit Card,Mall Outlet,Christopher,64.65
+INV1396,12/1/2025,Shaun Galloway,shanecooke@long.com,Dark Chocolate Bar,Gifts,6,11.05,0,Credit Card,Downtown,Alyssa,66.3
+INV1397,2/13/2025,Ashley Burnett,cheyenneknox@gmail.com,Chocolate Truffles,Bars,6,21.93,15,Credit Card,Downtown,Joshua,111.84
+INV1398,12/27/2025,Michael Robertson,eric54@gmail.com,Chocolate Gift Box,Beverages,8,14.18,0,Cash,Downtown,Mary,113.44
+INV1399,12/11/2025,Sydney Garza,rachelpage@scott.net,Dark Chocolate Bar,Beverages,9,13.28,15,Credit Card,Airport Kiosk,Catherine,101.59
+INV1400,11/6/2025,April Wilcox,jane73@ochoa-murphy.net,Hot Chocolate Mix,Beverages,2,3.08,5,Cash,Uptown,Johnathan,5.85
+INV1401,3/5/2025,Benjamin Klein,evelynromero@gonzales.biz,Chocolate Truffles,Nuts,9,10.18,10,Cash,Uptown,John,82.46
+INV1402,3/6/2025,Nicholas Gibson,jeffreygarcia@garcia-johnson.biz,Hot Chocolate Mix,Truffles,9,11.05,5,Credit Card,Mall Outlet,Judy,94.48
+INV1403,8/2/2025,Susan Haynes,pittmanvictor@yahoo.com,White Chocolate Bar,Nuts,7,11.47,15,Credit Card,Uptown,Christopher,68.25
+INV1404,12/1/2025,Shelby Young,dsims@ho.biz,Chocolate Truffles,Truffles,1,15.55,10,Online Transfer,Uptown,James,14
+INV1405,5/22/2025,Jeffrey Taylor DDS,tracey76@hotmail.com,White Chocolate Bar,Beverages,7,14.51,15,Cash,Downtown,Joseph,86.33
+INV1406,12/8/2025,Julie Evans,joshuamcneil@salas.org,Dark Chocolate Bar,Beverages,5,16.18,10,Credit Card,Downtown,Anna,72.81
+INV1407,8/27/2025,Mr. Ronald Stevens,castilloanita@yahoo.com,Dark Chocolate Bar,Nuts,6,19.71,10,Credit Card,Airport Kiosk,Brian,106.43
+INV1408,8/16/2025,Brian Williams,hamiltonjustin@kim-atkins.com,Chocolate Truffles,Nuts,7,20.79,10,Credit Card,Downtown,Shannon,130.98
+INV1409,7/1/2025,Yolanda Cisneros,guzmandeborah@adams-thomas.com,Chocolate Truffles,Truffles,5,18.66,10,Online Transfer,Downtown,Kenneth,83.97
+INV1410,1/18/2026,Cameron Christian,rsmith@yahoo.com,Chocolate-Covered Nuts,Gifts,7,24,15,Online Transfer,Downtown,Belinda,142.8
+INV1411,5/24/2025,Jesse Miller,alexavelasquez@yahoo.com,Hot Chocolate Mix,Truffles,9,2.91,10,Mobile Payment,Downtown,Jorge,23.57
+INV1412,3/31/2025,Steven Caldwell,toddleach@bond-williams.org,Chocolate-Covered Nuts,Nuts,3,6.91,10,Cash,Airport Kiosk,Darrell,18.66
+INV1413,1/11/2026,Christopher Garcia,charlotte68@yahoo.com,Hot Chocolate Mix,Nuts,8,2.67,5,Mobile Payment,Downtown,Mary,20.29
+INV1414,9/13/2025,Tina Parker,gordonmarcus@gmail.com,Chocolate-Covered Nuts,Bars,2,17.07,0,Credit Card,Mall Outlet,Thomas,34.14
+INV1415,9/13/2025,Hannah Dyer,wwilliams@jensen.info,White Chocolate Bar,Nuts,7,22.71,0,Online Transfer,Mall Outlet,Karen,158.97
+INV1416,1/25/2026,Angelica Richardson,claytonroberts@blackwell-phillips.com,Chocolate Truffles,Bars,2,7.98,5,Online Transfer,Mall Outlet,Curtis,15.16
+INV1417,6/7/2025,Tracy Anderson,susancohen@hotmail.com,Dark Chocolate Bar,Gifts,4,23.36,5,Mobile Payment,Mall Outlet,Emily,88.77
+INV1418,8/11/2025,Tyrone Hall,nstephens@robinson-davis.com,Hot Chocolate Mix,Truffles,7,3.86,15,Online Transfer,Downtown,Brittany,22.97
+INV1419,12/1/2025,Elizabeth Jones,pjoseph@thompson.com,Hot Chocolate Mix,Truffles,3,23.52,15,Credit Card,Mall Outlet,Carl,59.98
+INV1420,1/30/2026,Alexa Johnson,oburns@gmail.com,Dark Chocolate Bar,Bars,2,10.41,15,Online Transfer,Downtown,David,17.7
+INV1421,7/15/2025,Stephanie Edwards,ismith@yahoo.com,Chocolate-Covered Nuts,Truffles,7,4.78,5,Mobile Payment,Airport Kiosk,Lisa,31.79
+INV1422,7/8/2025,Sabrina Newton,ekelly@cox-brown.net,Hot Chocolate Mix,Nuts,1,13.43,5,Credit Card,Mall Outlet,Johnny,12.76
+INV1423,11/11/2025,Ryan Downs,briley@hotmail.com,Chocolate Gift Box,Beverages,8,8.28,10,Mobile Payment,Uptown,Troy,59.62
+INV1424,9/24/2025,Garrett King,andrea83@stephens.org,White Chocolate Bar,Bars,3,8.91,15,Online Transfer,Mall Outlet,Sharon,22.72
+INV1425,4/29/2025,Paula Green,curtisgregory@hotmail.com,Chocolate Truffles,Truffles,2,9.41,15,Mobile Payment,Mall Outlet,Jeffrey,16
+INV1426,3/23/2025,Kara Henry,lopezcody@harrington.biz,Dark Chocolate Bar,Bars,3,20.57,15,Mobile Payment,Downtown,John,52.45
+INV1427,7/11/2025,Melissa Long,hessdennis@hotmail.com,Chocolate Truffles,Bars,5,14.63,0,Cash,Mall Outlet,Colleen,73.15
+INV1428,8/23/2025,Stephanie Lopez MD,lisawilliams@brown.biz,Chocolate Gift Box,Beverages,8,9.5,10,Online Transfer,Uptown,Matthew,68.4
+INV1429,1/26/2026,April Rodriguez,jennifer43@brown.com,Hot Chocolate Mix,Nuts,7,16.23,15,Online Transfer,Downtown,Taylor,96.57
+INV1430,8/31/2025,Geoffrey Cooper,oschmitt@hotmail.com,Hot Chocolate Mix,Bars,7,18.61,15,Mobile Payment,Downtown,James,110.73
+INV1431,4/17/2025,Brenda Jackson,wreed@johnson-taylor.org,Chocolate Gift Box,Truffles,7,8.63,15,Cash,Airport Kiosk,Chad,51.35
+INV1432,9/15/2025,Joshua Andrews,bernardsmith@hotmail.com,Dark Chocolate Bar,Gifts,8,11.8,0,Online Transfer,Airport Kiosk,Peter,94.4
+INV1433,1/23/2026,Jeremy Lee,barbarajones@hall-smith.info,White Chocolate Bar,Bars,1,5.24,0,Credit Card,Mall Outlet,Stephanie,5.24
+INV1434,9/28/2025,Michelle Delgado,ann19@myers.biz,Milk Chocolate Bar,Bars,4,6.58,5,Mobile Payment,Airport Kiosk,Maurice,25
+INV1435,8/16/2025,Samuel Howell,nicholasgreen@smith.info,Dark Chocolate Bar,Beverages,6,17.83,10,Online Transfer,Airport Kiosk,Michael,96.28
+INV1436,9/11/2025,Mr. Michael Flynn,kclark@hotmail.com,Milk Chocolate Bar,Nuts,9,6.58,5,Credit Card,Airport Kiosk,Alex,56.26
+INV1437,1/10/2026,Paul Jones,iross@castillo.info,Chocolate Gift Box,Gifts,2,14.32,10,Online Transfer,Downtown,Carolyn,25.78
+INV1438,9/9/2025,Melanie Atkinson,kford@jackson.net,Chocolate-Covered Nuts,Truffles,1,18.45,0,Credit Card,Downtown,Andrea,18.45
+INV1439,3/8/2025,Eric Garcia,georgegomez@hotmail.com,Milk Chocolate Bar,Gifts,2,4.9,15,Mobile Payment,Downtown,Kylie,8.33
+INV1440,10/27/2025,Cindy Compton,owilson@perez.com,White Chocolate Bar,Truffles,7,15.26,5,Online Transfer,Airport Kiosk,Donna,101.48
+INV1441,1/1/2026,Michael Kent,jamesanderson@wagner.com,Chocolate-Covered Nuts,Nuts,3,8.27,15,Online Transfer,Downtown,Michael,21.09
+INV1442,12/30/2025,Ashley Brown,lopezdavid@yahoo.com,Milk Chocolate Bar,Truffles,2,24.17,5,Cash,Airport Kiosk,Dana,45.92
+INV1443,4/2/2025,Brian Durham,edalton@thornton-miller.info,Chocolate Gift Box,Beverages,7,13.38,0,Mobile Payment,Downtown,Brenda,93.66
+INV1444,11/25/2025,Carlos Rice,kingcory@molina-bowen.com,Chocolate-Covered Nuts,Beverages,2,20.63,0,Credit Card,Downtown,Martin,41.26
+INV1445,2/9/2025,Jeffery Herrera,ulewis@hotmail.com,Chocolate Gift Box,Beverages,3,14.88,0,Online Transfer,Uptown,Sandra,44.64
+INV1446,7/7/2025,Michael Johnson,aaron31@peterson.net,Milk Chocolate Bar,Beverages,7,3.48,5,Online Transfer,Mall Outlet,Keith,23.14
+INV1447,6/16/2025,Brian Jenkins,ruizchristina@wells-black.org,Chocolate Gift Box,Gifts,4,16.75,10,Credit Card,Airport Kiosk,Donald,60.3
+INV1448,8/10/2025,Carrie Brown,ronald20@whitaker.com,White Chocolate Bar,Nuts,1,23.91,5,Mobile Payment,Uptown,Robert,22.71
+INV1449,7/20/2025,Lee Shaw,corey85@hotmail.com,Milk Chocolate Bar,Truffles,5,16.04,10,Cash,Downtown,Jason,72.18
+INV1450,4/27/2025,James Gamble,hawkinsregina@vargas.org,Milk Chocolate Bar,Truffles,9,20.93,5,Cash,Airport Kiosk,Michelle,178.95
+INV1451,10/18/2025,Denise Jackson,fnewman@scott.com,Milk Chocolate Bar,Beverages,8,22.39,5,Online Transfer,Downtown,Joshua,170.16
+INV1452,5/19/2025,Steve Rush,wallaceroger@wright.com,Dark Chocolate Bar,Beverages,9,7.63,0,Credit Card,Mall Outlet,Michael,68.67
+INV1453,6/27/2025,Tyler Freeman,laurabutler@hill-hamilton.com,Dark Chocolate Bar,Bars,9,7.27,15,Online Transfer,Uptown,Nicolas,55.62
+INV1454,12/11/2025,Helen West,fstone@crosby.com,Dark Chocolate Bar,Nuts,7,16.25,15,Credit Card,Mall Outlet,Megan,96.69
+INV1455,12/14/2025,Megan Eaton,jamie13@hoover.org,White Chocolate Bar,Gifts,4,11.75,10,Cash,Uptown,Alexis,42.3
+INV1456,2/17/2025,Melissa Clark,campbellcourtney@hotmail.com,Chocolate-Covered Nuts,Truffles,5,21.4,15,Mobile Payment,Downtown,Katherine,90.95
+INV1457,3/12/2025,Randy Jacobs,balvarez@hunt.info,Chocolate Gift Box,Bars,1,22.75,5,Credit Card,Mall Outlet,Lauren,21.61
+INV1458,8/30/2025,Katherine Allen,shane27@moore.com,Hot Chocolate Mix,Bars,1,10.45,5,Cash,Mall Outlet,Chloe,9.93
+INV1459,12/8/2025,Christina Frye,elizabethsmith@gmail.com,Milk Chocolate Bar,Truffles,3,7.83,0,Online Transfer,Downtown,Samantha,23.49
+INV1460,12/26/2025,Stephanie Gomez,smithmaurice@johnston.org,Chocolate Gift Box,Gifts,8,20.06,0,Credit Card,Mall Outlet,John,160.48
+INV1461,8/13/2025,Linda Clark,nataliewest@owens.org,Milk Chocolate Bar,Bars,2,8.68,15,Mobile Payment,Airport Kiosk,Lisa,14.76
+INV1462,3/25/2025,Mr. Howard Holmes,marymckenzie@webb-hampton.com,White Chocolate Bar,Bars,4,21.01,10,Online Transfer,Uptown,Karl,75.64
+INV1463,3/11/2025,Jesse Yang,jerryrivera@wong.info,Milk Chocolate Bar,Nuts,2,12.03,15,Online Transfer,Uptown,Jennifer,20.45
+INV1464,1/28/2026,Kevin Mendez,dbennett@hotmail.com,Dark Chocolate Bar,Gifts,5,17.52,15,Cash,Uptown,David,74.46
+INV1465,3/20/2025,Daniel Ramsey,jonesanthony@osborn.com,Hot Chocolate Mix,Bars,9,4.65,15,Credit Card,Airport Kiosk,John,35.57
+INV1466,6/22/2025,Isabella Mclaughlin,thompsondavid@robles.com,Chocolate Truffles,Gifts,1,16.54,15,Online Transfer,Uptown,Allison,14.06
+INV1467,7/8/2025,Calvin Hughes,judyoconnor@hotmail.com,Milk Chocolate Bar,Truffles,5,12.66,5,Mobile Payment,Downtown,Peter,60.14
+INV1468,5/6/2025,Susan Robinson,joelmurphy@gmail.com,Chocolate Gift Box,Beverages,9,15.7,10,Credit Card,Mall Outlet,Michael,127.17
+INV1469,2/13/2025,Antonio Johnston,josephmahoney@patel.net,Dark Chocolate Bar,Bars,1,6.28,5,Mobile Payment,Airport Kiosk,Peter,5.97
+INV1470,3/26/2025,Kayla Barr,cassandragarcia@gmail.com,Chocolate Truffles,Nuts,9,19.08,10,Online Transfer,Uptown,Jennifer,154.55
+INV1471,4/13/2025,Henry Holmes,sarahlee@hotmail.com,Hot Chocolate Mix,Truffles,8,21.91,0,Mobile Payment,Downtown,Nicholas,175.28
+INV1472,12/12/2025,Michael Bryant,ericwallace@gmail.com,Chocolate Truffles,Gifts,4,7.38,15,Cash,Mall Outlet,Devin,25.09
+INV1473,8/1/2025,Michael Scott,gallagherjennifer@yahoo.com,Dark Chocolate Bar,Truffles,5,4.65,5,Mobile Payment,Mall Outlet,Charles,22.09
+INV1474,1/23/2026,Lauren Mcdonald,pdavis@king.com,Chocolate-Covered Nuts,Bars,5,3.03,10,Credit Card,Airport Kiosk,Christine,13.64
+INV1475,4/23/2025,Justin Lewis,ruizgina@cowan-garcia.com,Chocolate-Covered Nuts,Gifts,6,16.94,0,Mobile Payment,Airport Kiosk,Richard,101.64
+INV1476,9/20/2025,Pamela Jordan,fosterdanielle@macdonald-crane.com,Chocolate Truffles,Beverages,7,16.16,0,Mobile Payment,Airport Kiosk,Chad,113.12
+INV1477,5/4/2025,Richard Campbell,raybailey@gmail.com,White Chocolate Bar,Truffles,8,14.8,15,Cash,Downtown,Jeffrey,100.64
+INV1478,7/16/2025,Clinton Smith,cheryljones@clay-wheeler.com,Chocolate Gift Box,Bars,8,7.72,10,Mobile Payment,Downtown,Joshua,55.58
+INV1479,9/23/2025,Billy Melendez,natashagibson@washington.com,Chocolate Gift Box,Nuts,2,11.3,5,Mobile Payment,Airport Kiosk,Juan,21.47
+INV1480,12/18/2025,John Pierce,kfrank@dawson.net,Chocolate Truffles,Gifts,9,15.88,15,Online Transfer,Uptown,Eric,121.48
+INV1481,7/22/2025,Thomas Carr,amyphillips@strong.com,Milk Chocolate Bar,Truffles,7,13.68,5,Online Transfer,Mall Outlet,Madison,90.97
+INV1482,5/16/2025,Joshua Liu,carly96@gmail.com,Milk Chocolate Bar,Truffles,4,24.73,0,Credit Card,Mall Outlet,Stephen,98.92
+INV1483,5/24/2025,Krista Johnson,emilycastro@barber-melendez.com,Chocolate Gift Box,Beverages,4,5.57,5,Online Transfer,Downtown,Rebecca,21.17
+INV1484,5/9/2025,John Sanchez,heatherhernandez@lyons.com,Chocolate Gift Box,Beverages,8,18.14,5,Online Transfer,Mall Outlet,Kayla,137.86
+INV1485,1/9/2026,Joy Harper,nathanbrown@gmail.com,Chocolate-Covered Nuts,Nuts,4,11.6,15,Online Transfer,Uptown,Victoria,39.44
+INV1486,2/26/2025,Alexandra Cook,lewischristopher@hotmail.com,White Chocolate Bar,Nuts,6,12.13,5,Online Transfer,Mall Outlet,Jessica,69.14
+INV1487,1/6/2026,Misty Monroe,griffinmelissa@peck-brown.net,Dark Chocolate Bar,Bars,5,18.65,15,Cash,Downtown,Dylan,79.26
+INV1488,12/6/2025,Jason Hartman,brian20@gmail.com,Milk Chocolate Bar,Bars,3,18.08,0,Online Transfer,Downtown,Gavin,54.24
+INV1489,3/30/2025,Robin Chang,juanwyatt@yahoo.com,Chocolate Gift Box,Nuts,2,24.8,15,Cash,Uptown,Glenn,42.16
+INV1490,10/22/2025,Peter Oconnor,tina81@smith.info,Chocolate-Covered Nuts,Nuts,9,5.39,15,Cash,Uptown,Alex,41.23
+INV1491,2/22/2025,Jonathan Robinson,xcastaneda@yahoo.com,Hot Chocolate Mix,Gifts,9,4.84,10,Online Transfer,Mall Outlet,Robert,39.2
+INV1492,1/5/2026,Tonya Fernandez,sowen@yahoo.com,Chocolate-Covered Nuts,Beverages,1,18.8,5,Mobile Payment,Mall Outlet,Jonathan,17.86
+INV1493,3/17/2025,Matthew Price,cbrown@gmail.com,Milk Chocolate Bar,Bars,3,15.51,0,Cash,Downtown,Nathaniel,46.53
+INV1494,3/29/2025,Caitlyn Wright,isabella39@yahoo.com,Milk Chocolate Bar,Beverages,8,8.67,15,Mobile Payment,Uptown,Jeremy,58.96
+INV1495,2/27/2025,Heather Wood,ihill@lawrence.com,Chocolate-Covered Nuts,Beverages,6,4.29,0,Mobile Payment,Uptown,Rodney,25.74
+INV1496,8/12/2025,Jesse Brown,katherinemontgomery@roberts.com,Dark Chocolate Bar,Nuts,5,4.43,10,Online Transfer,Uptown,Jennifer,19.93
+INV1497,3/23/2025,Jonathan Anderson,brenda08@oliver.biz,Chocolate Truffles,Gifts,5,22.62,5,Credit Card,Mall Outlet,Leonard,107.44
+INV1498,4/7/2025,Brian Miller,ganderson@hotmail.com,Milk Chocolate Bar,Truffles,6,6.82,15,Online Transfer,Uptown,Kimberly,34.78
+INV1499,12/13/2025,Angel Santana,jeffreytyler@graves.com,Chocolate-Covered Nuts,Gifts,7,9.78,5,Credit Card,Downtown,Danielle,65.04
