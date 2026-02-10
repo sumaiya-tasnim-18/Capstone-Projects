@@ -66,3 +66,17 @@ This project demonstrates the power of AI in modern analytics workflows. It show
     • Analytical storytelling based on KPIs, trends, and filters
     • Ability to work across structured and AI-fabricated datasets
 By completing two dashboards with different datasets and tools, this workshop enhanced my skills on how AI can accelerate data preparation, visualization, and insight generation with minimal manual. overhead.
+
+# 🗂️3. Introduction to AI in Financial Modeling Masterclass
+
+##### Day 1 Deliverable
+Task---Forecasting Model Simulation : Excel forecast chart, 300–400 word interpretation
+<img width="960" height="657" alt="Screenshot 2026-01-31 013356" src="https://github.com/user-attachments/assets/94bcb773-769f-428f-8ea0-613ec13fef8f" />
+
+##### Day 2 Deliverable
+Task---Sentiment Analysis Report: Sentiment dataset (10–15 headlines), Score summary, 1-page investment view
+<img width="568" height="364" alt="Screenshot 2026-02-07 235910" src="https://github.com/user-attachments/assets/101b0452-8934-4cb2-ab99-9933863b0bba" />
+
+##### Day 3 Deliverable
+Task---AI-Driven Financial Dashboard: Dashboard screenshot or link, 1-page insight narrative
+<img width="1356" height="729" alt="Screenshot 2026-02-08 033253" src="https://github.com/user-attachments/assets/dbf46792-0885-48de-993b-845486a5abb3" />
