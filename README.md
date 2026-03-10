@@ -80,3 +80,21 @@ Task---Sentiment Analysis Report: Sentiment dataset (10–15 headlines), Score s
 ##### Day 3 Deliverable
 Task---AI-Driven Financial Dashboard: Dashboard screenshot or link, 1-page insight narrative
 <img width="1356" height="729" alt="Screenshot 2026-02-08 033253" src="https://github.com/user-attachments/assets/dbf46792-0885-48de-993b-845486a5abb3" />
+
+# 🗂️4. Design Thinking for AI Product Prototypes Masterclass
+
+This folder contains my project completed as part of the “Design Thinking for AI Product Prototypes Masterclass” through Excelerate website. The project applies design thinking principles to identify a real user problem in healthcare and develop an AI-enabled solution through empathy research, ideation, feasibility analysis, and rapid prototyping.
+
+# 📊 Project Overview
+• Domain: Healthcare (Hospital Nurses – Patient Record Management)
+• Solution: AI Smart Documentation Assistant
+• Tools: Canva (wireframes & prototype), Design Thinking methods
+• Focus Areas: Empathy Mapping, Problem Definition, AI Opportunity Mapping, Rapid Prototyping, User Feedback Analysis
+
+# 🗓️ Task Breakdown
+• Day 1: User research and empathy mapping to define the core problem faced by hospital nurses in managing patient documentation
+• Day 2: Ideation of solution concepts and identification of Natural Language Processing (NLP) as the key AI capability, followed by feasibility analysis
+• Day 3: Creation of a clickable prototype for the AI documentation assistant and collection of user feedback to refine the design
+
+# 🎯 Outcome
+This project demonstrates a structured design thinking workflow for AI product development—from understanding user pain points to validating a solution through prototyping and feedback. It highlights the ability to align AI capabilities with real user needs while considering feasibility, usability, and practical impact in healthcare workflows.
