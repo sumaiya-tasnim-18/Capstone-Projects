@@ -43,7 +43,8 @@ This folder contains my 1 week complete project for the program **“Introductio
     •Objective: Explore global space missions to understand launch success, country-level performance, agency involvement, and mission trends over time.
 
 ### Space Mission Dashboard Image (preview):
-<img src= "<img width="1024" height="1536" alt="Space Mission Dashboard by ChatGPT" src="https://github.com/user-attachments/assets/44db59f1-2edd-402d-ba99-187cb806ad07" />" width="400">
+<img width="1024" height="1536" alt="Space Mission Dashboard by ChatGPT" src="https://github.com/user-attachments/assets/44db59f1-2edd-402d-ba99-187cb806ad07" />" 
+<img width="500" alt="Space Mission Dashboard by ChatGPT" src="https://github.com/user-attachments/assets/44db59f1-2edd-402d-ba99-187cb806ad07" />
 
 ### Key Focus Areas:
     •Dataset generation through AI
