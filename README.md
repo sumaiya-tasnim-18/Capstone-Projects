@@ -98,13 +98,3 @@ This folder contains my project completed as part of the “Design Thinking for 
 
 # 🎯 Outcome
 This project demonstrates a structured design thinking workflow for AI product development—from understanding user pain points to validating a solution through prototyping and feedback. It highlights the ability to align AI capabilities with real user needs while considering feasibility, usability, and practical impact in healthcare workflows.
-
-# 🗂️5. Data Storytelling Challenge Using AI Tools
-kaggle Link: https://www.kaggle.com/datasets/waseemalastal/telco-customer-churn-ibm-dataset
-
-# Telco Churn Dashboard Visual (Image)
-
-<img width="1350" height="722" alt="Dashboard Page-1 (Image)" src="https://github.com/user-attachments/assets/35fb288c-5a6f-45d8-a07f-fb8580809963" />
-
-<img width="1353" height="725" alt="Dashboard Page-2 (Image)" src="https://github.com/user-attachments/assets/4668a04f-6770-49bd-8dc1-66f735b49810" />
-
